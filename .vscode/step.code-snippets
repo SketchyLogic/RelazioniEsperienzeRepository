@@ -1,0 +1,30 @@
+{
+	"esperinzaStepSnippet": {
+		"prefix": "step",
+		"body": [
+			"\\begin{noSplitBlock}",
+			"\\item \\textbf{${1:TITOLOoSTEP}}",
+			"",
+			"      {\\footnotesize \\textbf{Obiettivo}: ${2:OBIETTIVO}}",
+			"",
+			"      \\begin{itemize}",
+			"          \\item ${3:ITEM1}",
+			"          \\item ${4:ITEM2}",
+			"      \\end{itemize}",
+			"",
+			"      \\begin{accorgimentoBox}",
+			"          \\textbf{Accorgimento:} ${5:ACCORGIMENTOoDESCRIPTION}",
+			"      \\end{accorgimentoBox}",
+			"",
+			"      \\begin{percheBox}",
+			"          \\textbf{Perché:} ${6:PERCHEoDESCRIPTION}",
+			"      \\end{percheBox}",
+			"",
+			"      \\begin{criticitaBox}",
+			"          \\textbf{Criticità:} ${7:CRITICITAoDESCRIPTION}",
+			"      \\end{criticitaBox}",
+			"\\end{noSplitBlock}"
+		],
+		"description": "Snippet per un passo di procedura con itemize e box personalizzati."
+	}
+}

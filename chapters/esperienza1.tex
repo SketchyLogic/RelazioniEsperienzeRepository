@@ -1,7 +1,7 @@
 \section {Miniprep - Preparazione di DNA plasmidico tramite lisi alcalina}
 
 \subsection{Introduzione - Contesto}
-
+Questa procedura, sviluppata negli anni ’70, si è diffusa rapidamente grazie alla sua capacità di fornire DNA plasmidico puro e pronto per numerose applicazioni, come la clonazione, la trasformazione batterica o il sequenziamento. I plasmidi, piccoli anelli di DNA autonomamente replicanti, sono i veicoli ideali per trasportare geni di interesse e manipolare l’informazione genetica a scopi sperimentali o industriali.
 
 \subsection{Obiettivo}
 L’esperimento mira a estrarre il DNA plasmidico in forma pura, separandolo da componenti cellulari come proteine, RNA e DNA genomico al fine di ottenere un campione adatto a successive analisi molecolari.
@@ -26,32 +26,183 @@ L’esperimento mira a estrarre il DNA plasmidico in forma pura, separandolo da 
 	\item {RNAasi (opzionale)}: per degradare eventuale RNA contaminante
 \end{itemize}
 
+\newpage
+
 \subsection{Procedura}
 \begin{enumerate}
-    \item \textbf{Step}
-    
-    {\footnotesize \textbf{Obiettivo}: L'obiettivo di questo step}
 
-    \begin{itemize}
-        \item Centrifuga per 30 secondi a 12.000 rpm
-        \item Centrifuga per 30 secondi a 12.000 rpm
-        \item Capovolgi il tubo ed elimina il supernatante.
-    \end{itemize}
+	\begin{noSplitBlock}
+	\item \textbf{Raccogli circa 1,5 ml di coltura batterica fresca, cresciuta preferibilmente overnight.}
 
-    \begin{accorgimentoBox}
-    \textbf{Accorgimento:}Box Accorgimento
-    \end{accorgimentoBox}
+	      \begin{itemize}
+		      \item Centrifuga per 30 secondi a 12.000 rpm
+		      \item Capovolgi il tubo ed elimina il supernatante.
+	      \end{itemize}
 
-    \begin{percheBox}
-    \textbf{Perché:} Box Perche
-    \end{percheBox}
+	      \begin{accorgimentoBox}
+		      \textbf{Accorgimento:} È preferibile utilizzare una coltura batterica in fase esponenziale (12-16h e non oltre 24h) in quanto:
+		      \begin{itemize}
+			      \item Le cellule vitali presentano una maggiore concentrazione di plasmide.
+			      \item Una colutra stazionaria o in declino presenta una maggiore concentrazione di enzimi degradativi
+		      \end{itemize}
+	      \end{accorgimentoBox}
+\end{noSplitBlock}
 
-    \begin{criticitaBox}
-    \textbf{Criticità:} Box Criticita
-    \end{criticitaBox}
+	\begin{noSplitBlock}	  
+	\item \textbf{Centrifuga e rimozione supernatante}
 
-    \item \textbf{Step}
-    \item \textbf{Step}
-    \item \textbf{Step}
-    \item \textbf{Step}
+	      {\footnotesize \textbf{Obiettivo}: Separare le cellule dal terreno di coltura, concentrandole nel pellet.}
+	      \begin{itemize}
+		      \item Centrifuga per 30 secondi a 12.000 rpm.
+		      \item Capovolgi il tubo ed elimina il supernatante.
+	      \end{itemize}
+\end{noSplitBlock}
+		  \begin{noSplitBlock}
+	\item \textbf{Risospensione in Soluzione I}
+	      \begin{itemize}
+		      \item Aggiungi 100~µl di Soluzione I al pellet batterico e mischia usando il puntale di una pipetta o un vortex.
+	      \end{itemize}
+	      \begin{accorgimentoBox}
+		      \textbf{Accorgimento:} in questa fase le cellule sono ancora integre, quindi è possibile mixare vigorosamente senza rischiare di romperle; tuttavia, è preferibile evitare la formazione di bolle, poiché potrebbe impattare sugli step successivi.
+	      \end{accorgimentoBox}
+	      \begin{percheBox}
+		      \textbf{Perché:} la Soluzione I contiene un tampone (Tris) che stabilizza il pH, EDTA che chela i cofattori metallici delle nucleasi (proteggendo così il DNA) e glucosio che mantiene la tonicità e la stabilità delle cellule.
+	      \end{percheBox}
+\end{noSplitBlock}
+		  \begin{noSplitBlock}
+	\item \textbf{Lisi cellulare}
+
+	      {\footnotesize \textbf{Obiettivo}: rompere la membrana cellulare e denaturare proteine e acidi nucleici, generando un lisato cellulare viscoso e biancastro.}
+
+	      \begin{itemize}
+		      \item Aggiungi 200~µl di Soluzione II al campione e mescola delicatamente capovolgendo il tubo due o tre volte.
+	      \end{itemize}
+	      \begin{accorgimentoBox}
+		      \textbf{Accorgimento:} mescola lentamente e con cautela; evita l’uso del vortex per non rompere meccanicamente le molecole di DNA plasmidico, che in questa fase sono particolarmente fragili.
+	      \end{accorgimentoBox}
+	      \begin{percheBox}
+		      \textbf{Perché:} l’SDS solubilizza le membrane e le proteine, mentre NaOH denatura DNA genomico e plasmidico.
+	      \end{percheBox}
+\end{noSplitBlock}
+
+\begin{noSplitBlock}
+	\item \textbf{Neutralizzazione rapida}
+
+	      {\footnotesize \textbf{Obiettivo}: Neutralizzare la soluzione alcalina per permettere la rinaturazione selettiva del DNA plasmidico.}
+
+	      \begin{itemize}
+		      \item Aggiungi 150 µl di soluzione III e mescola delicatamente capovolgendo due o tre volte la provetta, evitando l’uso del vortex.
+	      \end{itemize}
+	      \begin{accorgimentoBox}
+		      \textbf{Accorgimento:} La Soluzione III contiene acetato di potassio a pH acido, che abbassa rapidamente il pH del lisato. Questo consente solo al DNA plasmidico (corto e superavvolto) di rinaturarsi selettivamente.
+	      \end{accorgimentoBox}
+	      \begin{criticitaBox}
+		      \textbf{Criticità:} Esegui questa operazione entro 2-3 minuti dall’aggiunta della Soluzione II. Un intervallo più lungo favorisce la rinaturazione anche del DNA genomico, riducendo la selettività e la purezza del DNA plasmidico.
+	      \end{criticitaBox}
+\end{noSplitBlock}
+\begin{noSplitBlock}
+	\item \textbf{Centrifugazione per separazione del surnatante}
+
+	      {\footnotesize \textbf{Obiettivo}: Separare il pellet (residui cellulari, DNA genomico e proteine precipitate) dal surnatante contenente il DNA plasmidico.}
+
+	      \begin{itemize}
+		      \item Centrifuga la provetta a massima velocità (14.000 rpm) per 5 minuti.
+		      \item Trasferisci il surnatante in una nuova provetta, evitando di disturbare il pellet.
+	      \end{itemize}
+
+	      \begin{accorgimentoBox}
+		      \textbf{Accorgimento:} Non prelevare più di 500~µl di surnatante per facilitare le fasi successive di precipitazione con etanolo.
+	      \end{accorgimentoBox}
+\end{noSplitBlock}
+\begin{noSplitBlock}
+	\item \textbf{Precipitazione del DNA con etanolo/isopropanolo e incubazione a freddo}
+
+	      {\footnotesize \textbf{Obiettivo}: Concentrare e isolare il DNA plasmidico dal surnatante, formando un pellet visibile.}
+
+	      \begin{itemize}
+		      \item Aggiungi al surnatante 2 volumi di etanolo 100\% oppure 0.6 volumi di isopropanolo.
+		      \item Capovolgi delicatamente la provetta per favorire il contatto del DNA con l’alcol.
+		      \item Incuba a -20°C per circa 20 minuti per facilitare la formazione del pellet.
+	      \end{itemize}
+
+	      \begin{percheBox}
+		      \textbf{Perché:} L’alcol riduce la solubilità del DNA, favorendone la precipitazione e la formazione del pellet. L’isopropanolo può essere preferito perché richiede volumi minori, ma entrambi gli alcoli funzionano efficacemente.
+	      \end{percheBox}
+	      \begin{percheBox}
+		      \textbf{Perché (basse temperature)}: Le basse temperature riducono la solubilità degli acidi nucleici negli alcoli, favorendo la formazione di un pellet più compatto e visibile.
+	      \end{percheBox}
+\end{noSplitBlock}
+
+\begin{noSplitBlock}
+	\item \textbf{Centrifugazione a 12000g per 5 minuti}
+
+	      {\footnotesize \textbf{Obiettivo}: Separare i detriti cellulari dal surnatante contenente il DNA plasmidico.}
+
+	      \begin{itemize}
+		      \item Centrifuga a 12.000g per 5 minuti.
+		      \item Osserva la formazione di un pellet bianco sul fondo della provetta.
+	      \end{itemize}
+
+	      \begin{criticitaBox}
+		      \textbf{Criticità:} Un pellet mucillaginoso o vischioso può indicare contaminazione da polisaccaridi o RNA, che potrebbe compromettere la purezza del DNA plasmidico.
+	      \end{criticitaBox}
+\end{noSplitBlock}
+
+\begin{noSplitBlock}
+	\item \textbf{Rimozione del supernatante e lavaggio con etanolo 70\% v/v}
+
+	      {\footnotesize \textbf{Obiettivo}: Eliminare residui di sali e impurità idrosolubili dal pellet di DNA plasmidico per ottenere un campione più puro e privo di contaminanti.}
+
+	      \begin{itemize}
+		      \item Rimuovi con cautela il supernatante.
+		      \item Aggiungi 500~µl di etanolo al 70\% v/v e capovolgi delicatamente la provetta per lavare il pellet.
+	      \end{itemize}
+\end{noSplitBlock}
+\begin{noSplitBlock}
+	\item \textbf{Rimozione completa dell'etanolo e asciugatura all'aria}
+
+	      {\footnotesize \textbf{Obiettivo}: Eliminare completamente l'etanolo residuo dal pellet di DNA plasmidico per garantire un'adeguata risospensione.}
+
+	      \begin{itemize}
+		      \item Rimuovi l'etanolo con cautela senza disturbare il pellet.
+		      \item Lascia il tubetto aperto all'aria per circa 10 minuti.
+	      \end{itemize}
+
+	      \begin{criticitaBox}
+		      \textbf{Criticità:} Tracce residue di etanolo possono precipitare nuovamente il DNA plasmidico, rendendolo difficile da risospendere e quindi riducendo la resa finale.
+	      \end{criticitaBox}
+\end{noSplitBlock}
+
+\begin{noSplitBlock}
+	\item \textbf{Risospensione del DNA plasmidico in tampone TE pH 8.0}
+
+	      {\footnotesize \textbf{Obiettivo}: Riprendere il pellet di DNA plasmidico dopo il lavaggio, solubilizzandolo in un tampone adatto alla conservazione e alla successiva manipolazione.}
+
+	      \begin{itemize}
+		      \item Aggiungi circa 50~µl di tampone TE (Tris-EDTA) pH 8.0 al pellet di DNA plasmidico.
+		      \item Mescola delicatamente o pipetta su e giù per favorire la risospensione completa del DNA.
+	      \end{itemize}
+
+	      \begin{percheBox}
+		      \textbf{Perché:} Il tampone TE protegge il DNA dalla degradazione grazie all'EDTA, che chela ioni metallici (ad esempio Mg²$^+$) necessari per l'attività delle DNasi. Il pH 8.0 è ottimale per la stabilità del DNA e la prevenzione dell'attività nucleasica.
+	      \end{percheBox}
+\end{noSplitBlock}
+\begin{noSplitBlock}
+	\item \textbf{Conservazione a 4~$^\circ$C}
+
+	      {\footnotesize \textbf{Obiettivo}: Conservare il DNA plasmidico in modo sicuro e stabile, minimizzando il rischio di degradazione.}
+
+	      \begin{percheBox}
+		      \textbf{Perché:} Conservare il DNA a basse temperature rallenta l’attività enzimatica delle DNAsi e altri enzimi potenzialmente contaminanti, proteggendo l’integrità del campione.
+	      \end{percheBox}
+
+	      \begin{percheBox}
+		      \textbf{Perché (in acqua a -20~$^\circ$C)}: In assenza di EDTA, le DNAsi possono degradare il DNA anche a 4~$^\circ$C; per questo, il DNA disciolto in acqua deve essere conservato a –20~$^\circ$C per disattivare o rallentare drasticamente le nucleasi.
+	      \end{percheBox}
+\end{noSplitBlock}
 \end{enumerate}
+
+\subsection{Conclusioni}
+
+L’esperimento di miniprep ha permesso di ottenere DNA plasmidico in forma pura, pronto per successive esperienze. La procedura, basata sulla lisi alcalina e la neutralizzazione selettiva, ha garantito la separazione del DNA plasmidico da contaminanti cellulari. Questo protocollo consente, se eseguito correttamente, di ottenere DNA plasmidico idoneo a clonazione, trasformazione batterica e sequenziamento.
+\newpage
