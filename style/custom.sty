@@ -1,0 +1,41 @@
+\RequirePackage[most]{tcolorbox}
+\RequirePackage{xcolor}
+
+% Stile minimale con bordo arrotondato e sfondo colorato
+\tcbset{
+  boxrule=0pt,        % nessun bordo visibile
+  frame hidden,       % NASCONDE il bordo (corretto!)
+  arc=1mm,
+  left=1mm,
+  right=1mm,
+  top=1mm,
+  bottom=1mm,
+  enhanced,
+}
+
+% Box Accorgimento
+\newtcolorbox{accorgimentoBox}{
+  colback=orange!20,
+  coltext=black,
+  arc=1mm,
+  fontupper=\small,  % rende più piccolo il testo nel box
+}
+
+% Box Perché
+\newtcolorbox{percheBox}{
+  colback=green!20,
+  coltext=black,
+  arc=1mm,
+  fontupper=\small,
+}
+
+% Box Criticità
+\newtcolorbox{criticitaBox}{
+  colback=red!15,
+  coltext=black,
+  arc=1mm,
+  fontupper=\small,
+}
+
+% Personalizzo il trattino nei bullet
+\renewcommand{\labelitemi}{–}
