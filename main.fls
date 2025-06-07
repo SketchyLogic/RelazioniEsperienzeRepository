@@ -234,9 +234,9 @@ INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 OUTPUT main.toc
 INPUT c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT ./chapters/esperienza1.tex
-INPUT ./chapters/esperienza1.tex
-INPUT chapters/esperienza1.tex
+INPUT ./chapters/1.Miniprep - Preparazione di DNA plasmidico tramite lisi alcalina.tex
+INPUT ./chapters/1.Miniprep - Preparazione di DNA plasmidico tramite lisi alcalina.tex
+INPUT chapters/1.Miniprep - Preparazione di DNA plasmidico tramite lisi alcalina.tex
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
@@ -253,21 +253,24 @@ INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT ./chapters/esperienza2.tex
-INPUT ./chapters/esperienza2.tex
-INPUT chapters/esperienza2.tex
+INPUT ./chapters/2.Estrazione dell RNA totale con TRIzol e Quantificazione.tex
+INPUT ./chapters/2.Estrazione dell RNA totale con TRIzol e Quantificazione.tex
+INPUT chapters/2.Estrazione dell RNA totale con TRIzol e Quantificazione.tex
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT ./chapters/esperienza3.tex
-INPUT ./chapters/esperienza3.tex
-INPUT chapters/esperienza3.tex
+INPUT ./chapters/3.Spettrometria di un campione di RNA totale.tex
+INPUT ./chapters/3.Spettrometria di un campione di RNA totale.tex
+INPUT chapters/3.Spettrometria di un campione di RNA totale.tex
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
-INPUT ./chapters/esperienza4.tex
-INPUT ./chapters/esperienza4.tex
-INPUT chapters/esperienza4.tex
+INPUT ./chapters/4.Restrizione del DNA ed analisi elettroforetica.tex
+INPUT ./chapters/4.Restrizione del DNA ed analisi elettroforetica.tex
+INPUT chapters/4.Restrizione del DNA ed analisi elettroforetica.tex
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmti8.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT ./chapters/5.PCR.tex
+INPUT ./chapters/5.PCR.tex
+INPUT chapters/5.PCR.tex
 INPUT main.aux
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb

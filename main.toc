@@ -29,3 +29,10 @@
 \contentsline {subsection}{\numberline {4.7}Preparazione della corsa elettroforetica}{15}{}%
 \contentsline {subsection}{\numberline {4.8}Osservare il gel nel transilluminatore}{15}{}%
 \contentsline {subsection}{\numberline {4.9}Come interpretare l’analisi}{15}{}%
+\contentsline {section}{\numberline {5}PCR}{16}{}%
+\contentsline {subsection}{\numberline {5.1}Introduzione}{16}{}%
+\contentsline {subsection}{\numberline {5.2}Obiettivo}{16}{}%
+\contentsline {subsection}{\numberline {5.3}Strumentazione}{16}{}%
+\contentsline {subsection}{\numberline {5.4}Soluzioni e reagenti}{16}{}%
+\contentsline {subsection}{\numberline {5.5}Procedura}{17}{}%
+\contentsline {subsection}{\numberline {5.6}Conclusioni}{17}{}%

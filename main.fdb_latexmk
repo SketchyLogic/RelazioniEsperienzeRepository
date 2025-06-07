@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1749322507.98059 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749322509.46692 0
-  "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749260401 479 5167bb25500a9cd6bbe321181f638181 ""
+["pdflatex"] 1749322984.7716 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749322986.27466 0
+  "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749322899 677 662e831a131a575c44e03879481a02cb ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1749158061 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1749158899 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1749158535 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
@@ -172,13 +172,14 @@
   "c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1749163653 5569470 f263a82cf6bb394f5bc87b63f38b78df ""
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1749163859 3598365 8f459ec18faefcd5ac07bf7d85f50f54 ""
   "c:/texlive/2025/texmf.cnf" 1749163632 713 e69b156964470283e0530f5060668171 ""
-  "chapters/esperienza1.tex" 1749221934 11349 a74882533b0c7b893b17ea1c52374b31 ""
-  "chapters/esperienza2.tex" 1749245728 9606 bf1622cf546acb8214153a619ad40d6f ""
-  "chapters/esperienza3.tex" 1749248697 3222 07b97052cfebf6a4e7dce35844d53e61 ""
-  "chapters/esperienza4.tex" 1749322505 12560 741704f53500b3487e7039aee9aec31f ""
-  "main.aux" 1749322509 3765 ca5a20f9f232bd7b129bf98751da4fa9 "pdflatex"
-  "main.tex" 1749260401 479 5167bb25500a9cd6bbe321181f638181 ""
-  "main.toc" 1749322509 2461 92adb6531bd6190247036ea17a523018 "pdflatex"
+  "chapters/1.Miniprep - Preparazione di DNA plasmidico tramite lisi alcalina.tex" 1749221934 11349 a74882533b0c7b893b17ea1c52374b31 ""
+  "chapters/2.Estrazione dell RNA totale con TRIzol e Quantificazione.tex" 1749245728 9606 bf1622cf546acb8214153a619ad40d6f ""
+  "chapters/3.Spettrometria di un campione di RNA totale.tex" 1749248697 3222 07b97052cfebf6a4e7dce35844d53e61 ""
+  "chapters/4.Restrizione del DNA ed analisi elettroforetica.tex" 1749322505 12560 741704f53500b3487e7039aee9aec31f ""
+  "chapters/5.PCR.tex" 1749322982 453 6fefcf89219bbf4e359c11a6eb58743e ""
+  "main.aux" 1749322986 4496 8e5f630d028e37f5b2394b78396016b9 "pdflatex"
+  "main.tex" 1749322899 677 662e831a131a575c44e03879481a02cb ""
+  "main.toc" 1749322986 2905 0e41cb78633d503363b1ef1ec9a1dfdc "pdflatex"
   "style/custom.sty" 1749228561 1424 ea09c5c2630fb2a481b602f2ef30935c ""
   (generated)
   "main.aux"
