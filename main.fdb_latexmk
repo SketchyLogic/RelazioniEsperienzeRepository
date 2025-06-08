@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1749420312.11017 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749420313.72532 0
+["pdflatex"] 1749421873.39324 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749421875.01118 0
   "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749411453 829 edf7523e6ea5e40a3e3bf79f9de95246 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1749158061 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1749158899 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -11,6 +11,8 @@
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1749157354 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm" 1749157354 996 a18840b13b499c08ac2de96a99eda4bc ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cbfonts/grmi1000.tfm" 1749157923 5792 32e5b1c2a6a99496bd4f7ffa3d30abbc ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/public/cbfonts/grmn0800.tfm" 1749157923 2840 189726d5a71e677f5bbdb6d510a4c374 ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/public/cbfonts/grmn0900.tfm" 1749157923 2888 dd13cb7f40b891ceaf89e750deef374b ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cbfonts/grmn1000.tfm" 1749157923 2832 eba925ba5e32fe347e9766e6c16d224b ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1749158044 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1749158044 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -55,6 +57,8 @@
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb" 1749157354 35660 fb24af7afbadb71801619f1415838111 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb" 1749157354 36310 f5ddc6715cc60deb16d9db5ded6a9391 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/cbfonts/grmi1000.pfb" 1749157923 83481 336e04aa4f1b91981ff128a0bd71ee8f ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/cbfonts/grmn0800.pfb" 1749157923 84062 a789f47066ea4a2cc6dfc1119b54ab5b ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/cbfonts/grmn0900.pfb" 1749157923 82687 724297b59bf87a76c47a612602e9d529 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/cbfonts/grmn1000.pfb" 1749157923 82167 345ce464dc0ff0650f62e82447186d00 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb" 1749158061 145408 bcd327f112f643a875638eafb48d1d8b ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb" 1749158061 164227 41439fae96b3b30186924e9dd2fcff30 ""
@@ -202,10 +206,10 @@
   "chapters/4.Restrizione del DNA ed analisi elettroforetica.tex" 1749322505 12560 741704f53500b3487e7039aee9aec31f ""
   "chapters/5.PCR.tex" 1749349006 10522 07e6c4f8ba5cc6ee6ecd6b48c853e9c0 ""
   "chapters/6.Preparazione LB solido.tex" 1749410886 2758 c3d0b32acbca9358a9d5e5821f8c808c ""
-  "chapters/7.Preparazione di cellule competenti.tex" 1749420311 6391 143b14983321f615fbf6830d8e0aea23 ""
-  "main.aux" 1749420313 6762 7c94c0905dd09f3312e3fe61029a2075 "pdflatex"
+  "chapters/7.Preparazione di cellule competenti.tex" 1749421872 7589 4f6db8f3a4a5f35c27d7bcdc735158ad ""
+  "main.aux" 1749421874 6762 7c94c0905dd09f3312e3fe61029a2075 "pdflatex"
   "main.tex" 1749411453 829 edf7523e6ea5e40a3e3bf79f9de95246 ""
-  "main.toc" 1749420313 4337 c9a852b08b12d90c6ae5c40f3957916f "pdflatex"
+  "main.toc" 1749421874 4337 c9a852b08b12d90c6ae5c40f3957916f "pdflatex"
   "style/custom.sty" 1749419131 1448 353ec0dd4b4bd1bc121fb14050388ce2 ""
   (generated)
   "main.aux"
