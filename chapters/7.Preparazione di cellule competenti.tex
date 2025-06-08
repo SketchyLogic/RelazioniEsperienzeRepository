@@ -1,0 +1,98 @@
+\section {Preparazione di cellule competenti}
+
+\subsection{Introduzione}
+
+La preparazione delle cellule competenti è un passaggio fondamentale per rendere i batteri capaci di assorbire DNA plasmidico durante la trasformazione. In questo protocollo verranno usate le linee batteriche \textit{DH5α} e \textit{BL21}.
+
+\subsection{Buffer utilizzati}
+
+\subsection*{Buffer 1 (50 mL) – \textit{Buffer di preparazione}}
+\begin{itemize}\footnotesize
+  \item RbCl 12 g/L (0.6 g)
+  \item MnCl$_2\cdot$4H$_2$O 9.9 g/L (0.49 g)
+  \item 1.5 mL di una soluzione di KAc 1 M a pH 7.5
+  \item CaCl$_2\cdot$2H$_2$O 1.5 g/L (0.075 g)
+  \item Glicerolo 150 g/L (7.5 g)
+\end{itemize}
+Portare a pH 5.8 con HAc, portare a volume (50 mL) con acqua milliQ e filtrare con membrana 0.22~$\mu$m sotto cappa.
+
+\subsection*{Buffer 2 (20 mL) – \textit{Buffer di stabilizzazione}}
+\begin{itemize}\footnotesize
+  \item 0.4 mL di una soluzione di MOPS 0.5 M a pH 6.8
+  \item RbCl 1.2 g/L (0.025 g)
+  \item CaCl$_2\cdot$2H$_2$O 11 g/L (0.22 g)
+  \item Glicerolo 150 g/L (3 g)
+\end{itemize}
+Portare a volume (20 mL) con acqua milliQ e filtrare con membrana 0.22~$\mu$m sotto cappa.
+
+\begin{percheBox}
+  \textbf{Perché usare due buffer diversi?}
+
+  Sia il \textbf{Buffer 1} (Preparazione) che il \textbf{Buffer 2} (Stabilizzazione) sono formulati per preparare e proteggere le cellule durante la trasformazione, ma svolgono ruoli distinti e complementari.
+
+  \begin{itemize}\footnotesize
+    \item \textbf{Similitudini:} Entrambi contengono RbCl, CaCl$_2$ e glicerolo. Questi componenti aiutano a:
+      \begin{itemize}
+        \item Mantenere l’integrità della membrana cellulare.
+        \item Stabilizzare la cellula in condizioni di stress osmotico.
+      \end{itemize}
+
+    \item \textbf{Differenze:}
+      \begin{itemize}
+        \item Il \textbf{Buffer 1} ha un pH più acido e contiene anche MnCl$_2$ e KAc. Questo lo rende ideale per la fase iniziale: “ammorbidisce” la membrana e la rende più permeabile al DNA, facilitandone l’entrata.
+        \item Il \textbf{Buffer 2} ha un pH più neutro (stabilizzato dal tampone MOPS) e contiene più CaCl$_2$. Serve nella fase finale per stabilizzare la membrana e proteggere le cellule durante il congelamento e la trasformazione.
+      \end{itemize}
+  \end{itemize}
+
+  Insieme, questi due buffer creano un equilibrio tra \textbf{permeabilizzazione} (fase iniziale) e \textbf{stabilizzazione} (fase finale), fondamentale per ottenere cellule competenti efficienti e vitali.
+\end{percheBox}
+
+\newpage
+\subsection{Procedura}
+
+\begin{enumerate}
+  \item Prelevare in sterilità con pipette sierologiche 5 mL di una coltura di cellule DH5α e 5 mL di BL21 ad OD$_{600}$ di 0.3–0.4 e trasferirli in due provette Falcon da 15 mL sterili.
+  \item Centrifugare 5 minuti a 3000 g a 4~$^\circ$C ed eliminare il surnatante.
+  \item Per ciascuna linea cellulare, risospendere dolcemente le cellule in 0.8 mL di \textbf{buffer 1} e trasferire la sospensione in eppendorf da 2 mL sotto cappa.
+  \item Incubare in ghiaccio per 15 minuti.
+  \item Centrifugare 5 minuti a 3000 g a 4~$^\circ$C.
+  \item Eliminare sotto cappa il surnatante e risospendere le cellule in 400~$\mu$L di \textbf{buffer 2}.
+  \item Congelare in azoto liquido e conservare a –80~$^\circ$C.
+\end{enumerate}
+
+\begin{accorgimentoBox}
+  \textbf{Accorgimento:} Lavorare sempre sotto cappa per evitare contaminazioni e garantire la sterilità.
+\end{accorgimentoBox}
+
+
+\begin{insightBox}
+  \textbf{Insight:} La dicitura \textbf{OD$_{600}$} si riferisce alla \textbf{densità ottica (Optical Density) misurata a 600 nm}.\\
+  È un metodo rapido e \textbf{indiretto} per stimare la concentrazione delle cellule batteriche in coltura: più alta è l’OD$_{600}$, maggiore è la densità cellulare.\\
+  Questo parametro è particolarmente utile per controllare la fase di crescita della coltura e regolare i tempi di inoculo o di raccolta.
+
+  \vspace{0.5em}
+
+  Nel contesto della preparazione di cellule competenti, l’\textbf{OD$_{600}$ ideale} è compreso tra \textbf{0.3 e 0.4}.\\
+  In questa fase (\textit{fase esponenziale di crescita}), le cellule sono metabolicamente attive e le membrane sono più “plastiche” e predisposte alla trasformazione.\\
+  Raccogliere le cellule a questo punto garantisce un’alta efficienza di trasformazione e cellule vitali.
+\end{insightBox}
+
+\subsection{Linee guida generali per la preparazione di tamponi}
+
+I tamponi (o buffer) sono soluzioni che mantengono stabile il pH durante le esperienze biologiche. La scelta e la preparazione accurata del tampone sono fondamentali per garantire la buona riuscita delle reazioni e la vitalità delle cellule.
+
+\begin{itemize}\footnotesize
+    \item \textbf{pH desiderato:} Scegliere un tampone il cui \textit{pK}$_a$ è vicino al pH target (entro 1 unità) per assicurare la massima capacità tamponante.
+    \item \textbf{Compatibilità con enzimi o cellule:} Verificare che il tampone non interferisca con i cofattori o la reazione biologica. Ad esempio, l’EDTA chela i metalli e inibisce enzimi che richiedono Mg$^{2+}$.
+    \item \textbf{Forza ionica e osmolarità:} Per esperimenti con cellule vive, è importante che il tampone sia isotonico (ad esempio con aggiunta di NaCl) per evitare danni osmotici come lisi o plasmolisi.
+    \item \textbf{Concentrazione del tampone:} In genere si utilizzano tamponi a concentrazione compresa tra 10 e 100 mM, evitando concentrazioni troppo elevate che potrebbero creare effetti collaterali.
+    \item \textbf{Purezza e sterilità:} Preparare la soluzione con acqua milliQ o distillata e filtrare per rimuovere contaminanti che potrebbero compromettere la reazione o la crescita cellulare.
+\end{itemize}
+
+\begin{insightBox}
+  \textbf{Insight:} La mole è un’unità fondamentale in chimica e rappresenta $6.022 \times 10^{23}$ particelle. La concentrazione millimolare (mM) rappresenta un millesimo di mole per litro e si usa per misurare in modo preciso la quantità di sostanza disciolta, particolarmente utile in biologia molecolare.
+\end{insightBox}
+
+\begin{notaBox}
+    \textbf{Nota:} La corretta scelta del tampone consente di mantenere la stabilità del sistema biologico e ottimizzare l’efficienza delle reazioni enzimatiche o della crescita batterica.
+\end{notaBox}

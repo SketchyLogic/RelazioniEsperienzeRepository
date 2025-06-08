@@ -1,50 +1,55 @@
-\contentsline {section}{\numberline {1}Miniprep - Preparazione di DNA plasmidico tramite lisi alcalina}{2}{}%
-\contentsline {subsection}{\numberline {1.1}Introduzione - Contesto}{2}{}%
-\contentsline {subsection}{\numberline {1.2}Obiettivo}{2}{}%
-\contentsline {subsection}{\numberline {1.3}Strumentazione}{2}{}%
-\contentsline {subsection}{\numberline {1.4}Soluzioni e reagenti}{2}{}%
-\contentsline {subsection}{\numberline {1.5}Procedura}{3}{}%
-\contentsline {subsection}{\numberline {1.6}Conclusioni}{5}{}%
-\contentsline {section}{\numberline {2}Estrazione dell RNA totale con TRIzol e Quantificazione}{6}{}%
-\contentsline {subsection}{\numberline {2.1}Introduzione - Contesto}{6}{}%
-\contentsline {subsection}{\numberline {2.2}Obiettivo}{6}{}%
-\contentsline {subsection}{\numberline {2.3}Strumentazione}{6}{}%
-\contentsline {subsection}{\numberline {2.4}Soluzioni e reagenti}{6}{}%
-\contentsline {subsection}{\numberline {2.5}Procedura}{7}{}%
-\contentsline {subsection}{\numberline {2.6}Conclusioni}{9}{}%
-\contentsline {section}{\numberline {3}Spettrometria di un campione di RNA totale}{10}{}%
-\contentsline {subsection}{\numberline {3.1}Introduzione}{10}{}%
-\contentsline {subsection}{\numberline {3.2}Analogie e diversità dei due strumenti}{10}{}%
-\contentsline {subsection}{\numberline {3.3}Interpretazione dei dati}{10}{}%
-\contentsline {subsection}{\numberline {3.4}Registrazione del bianco}{10}{}%
-\contentsline {section}{\numberline {4}Restrizione del DNA ed analisi elettroforetica}{11}{}%
-\contentsline {subsection}{\numberline {4.1}Introduzione}{11}{}%
-\contentsline {subsubsection}{\numberline {4.1.1}Tecniche e tecnologie utilizzate}{11}{}%
-\contentsline {subsubsection}{\numberline {4.1.2}Informazioni generali sull'enzima EcoRI}{11}{}%
-\contentsline {subsection}{\numberline {4.2}Obiettivo}{11}{}%
-\contentsline {subsection}{\numberline {4.3}Strumentazione e reagenti (digestione enzimatica)}{12}{}%
-\contentsline {subsection}{\numberline {4.4}Strumentazione e reagenti (gel elettroforesi)}{12}{}%
-\contentsline {subsection}{\numberline {4.5}Procedura per digestione del DNA}{13}{}%
-\contentsline {subsection}{\numberline {4.6}Procedura preparazione Gel Elettroforesi}{14}{}%
-\contentsline {subsection}{\numberline {4.7}Preparazione della corsa elettroforetica}{15}{}%
-\contentsline {subsection}{\numberline {4.8}Osservare il gel nel transilluminatore}{15}{}%
-\contentsline {subsection}{\numberline {4.9}Come interpretare l’analisi}{15}{}%
-\contentsline {section}{\numberline {5}Polymerase Chain Reaction (PCR)}{16}{}%
-\contentsline {subsection}{\numberline {5.1}Principio di funzionamento}{16}{}%
-\contentsline {subsection}{\numberline {5.2}Obiettivo}{16}{}%
-\contentsline {subsection}{\numberline {5.3}Strumentazione}{16}{}%
-\contentsline {subsubsection}{\numberline {5.3.1}Il termociclatore}{16}{}%
-\contentsline {subsection}{\numberline {5.4}Soluzioni e altre sostanze}{16}{}%
-\contentsline {subsection}{\numberline {5.5}Procedimento}{17}{}%
-\contentsline {subsection}{\numberline {5.6}Programma termociclatore}{17}{}%
-\contentsline {subsection}{\numberline {5.7}Risultati attesi}{17}{}%
-\contentsline {subsection}{\numberline {5.8}Un'evoluzione della PCR: RealTime-qPCR}{18}{}%
-\contentsline {subsubsection}{\numberline {5.8.1}Che problema risolve RT-qPCR}{18}{}%
-\contentsline {subsubsection}{\numberline {5.8.2}Principio di funzionamento semplificato}{18}{}%
-\contentsline {subsubsection}{\numberline {5.8.3}Cenni Storici: La strada che ha portato allo sviluppo della RealTime-qPCR}{18}{}%
-\contentsline {section}{\numberline {6}Preparazione di terreno LB solido}{19}{}%
-\contentsline {subsection}{\numberline {6.1}Introduzione}{19}{}%
-\contentsline {subsection}{\numberline {6.2}Composizione del terreno LB solido}{19}{}%
-\contentsline {subsection}{\numberline {6.3}Obiettivo}{19}{}%
-\contentsline {subsection}{\numberline {6.4}Strumentazione e reagenti}{19}{}%
-\contentsline {subsection}{\numberline {6.5}Procedura}{19}{}%
+\contentsline {section}{\numberline {1}Miniprep - Preparazione di DNA plasmidico tramite lisi alcalina}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Introduzione - Contesto}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Obiettivo}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Strumentazione}{3}{}%
+\contentsline {subsection}{\numberline {1.4}Soluzioni e reagenti}{3}{}%
+\contentsline {subsection}{\numberline {1.5}Procedura}{4}{}%
+\contentsline {subsection}{\numberline {1.6}Conclusioni}{6}{}%
+\contentsline {section}{\numberline {2}Estrazione dell RNA totale con TRIzol e Quantificazione}{7}{}%
+\contentsline {subsection}{\numberline {2.1}Introduzione - Contesto}{7}{}%
+\contentsline {subsection}{\numberline {2.2}Obiettivo}{7}{}%
+\contentsline {subsection}{\numberline {2.3}Strumentazione}{7}{}%
+\contentsline {subsection}{\numberline {2.4}Soluzioni e reagenti}{7}{}%
+\contentsline {subsection}{\numberline {2.5}Procedura}{8}{}%
+\contentsline {subsection}{\numberline {2.6}Conclusioni}{10}{}%
+\contentsline {section}{\numberline {3}Spettrometria di un campione di RNA totale}{11}{}%
+\contentsline {subsection}{\numberline {3.1}Introduzione}{11}{}%
+\contentsline {subsection}{\numberline {3.2}Analogie e diversità dei due strumenti}{11}{}%
+\contentsline {subsection}{\numberline {3.3}Interpretazione dei dati}{11}{}%
+\contentsline {subsection}{\numberline {3.4}Registrazione del bianco}{11}{}%
+\contentsline {section}{\numberline {4}Restrizione del DNA ed analisi elettroforetica}{12}{}%
+\contentsline {subsection}{\numberline {4.1}Introduzione}{12}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Tecniche e tecnologie utilizzate}{12}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}Informazioni generali sull'enzima EcoRI}{12}{}%
+\contentsline {subsection}{\numberline {4.2}Obiettivo}{12}{}%
+\contentsline {subsection}{\numberline {4.3}Strumentazione e reagenti (digestione enzimatica)}{13}{}%
+\contentsline {subsection}{\numberline {4.4}Strumentazione e reagenti (gel elettroforesi)}{13}{}%
+\contentsline {subsection}{\numberline {4.5}Procedura per digestione del DNA}{14}{}%
+\contentsline {subsection}{\numberline {4.6}Procedura preparazione Gel Elettroforesi}{15}{}%
+\contentsline {subsection}{\numberline {4.7}Preparazione della corsa elettroforetica}{16}{}%
+\contentsline {subsection}{\numberline {4.8}Osservare il gel nel transilluminatore}{16}{}%
+\contentsline {subsection}{\numberline {4.9}Come interpretare l’analisi}{16}{}%
+\contentsline {section}{\numberline {5}Polymerase Chain Reaction (PCR)}{17}{}%
+\contentsline {subsection}{\numberline {5.1}Principio di funzionamento}{17}{}%
+\contentsline {subsection}{\numberline {5.2}Obiettivo}{17}{}%
+\contentsline {subsection}{\numberline {5.3}Strumentazione}{17}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}Il termociclatore}{17}{}%
+\contentsline {subsection}{\numberline {5.4}Soluzioni e altre sostanze}{17}{}%
+\contentsline {subsection}{\numberline {5.5}Procedimento}{18}{}%
+\contentsline {subsection}{\numberline {5.6}Programma termociclatore}{18}{}%
+\contentsline {subsection}{\numberline {5.7}Risultati attesi}{18}{}%
+\contentsline {subsection}{\numberline {5.8}Un'evoluzione della PCR: RealTime-qPCR}{19}{}%
+\contentsline {subsubsection}{\numberline {5.8.1}Che problema risolve RT-qPCR}{19}{}%
+\contentsline {subsubsection}{\numberline {5.8.2}Principio di funzionamento semplificato}{19}{}%
+\contentsline {subsubsection}{\numberline {5.8.3}Cenni Storici: La strada che ha portato allo sviluppo della RealTime-qPCR}{19}{}%
+\contentsline {section}{\numberline {6}Preparazione di terreno LB solido}{20}{}%
+\contentsline {subsection}{\numberline {6.1}Introduzione}{20}{}%
+\contentsline {subsection}{\numberline {6.2}Composizione del terreno LB solido}{20}{}%
+\contentsline {subsection}{\numberline {6.3}Obiettivo}{20}{}%
+\contentsline {subsection}{\numberline {6.4}Strumentazione e reagenti}{20}{}%
+\contentsline {subsection}{\numberline {6.5}Procedura}{20}{}%
+\contentsline {section}{\numberline {7}Preparazione di cellule competenti}{21}{}%
+\contentsline {subsection}{\numberline {7.1}Introduzione}{21}{}%
+\contentsline {subsection}{\numberline {7.2}Buffer utilizzati}{21}{}%
+\contentsline {subsection}{\numberline {7.3}Procedura}{22}{}%
+\contentsline {subsection}{\numberline {7.4}Linee guida generali per la preparazione di tamponi}{22}{}%
