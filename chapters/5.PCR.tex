@@ -1,32 +1,144 @@
-\section {PCR}
+\section{Polymerase Chain Reaction (PCR)}
 
-\subsection{Introduzione}
-INTRODUZIONE
+\subsection{Principio di funzionamento}
+La PCR è una tecnica di amplificazione enzimatica \emph{in vitro} del DNA. Si basa sull’uso di:
+\begin{itemize}
+    \item \textbf{Primer}: brevi sequenze di DNA complementari alle regioni di interesse, che fungono da punto di innesco per la sintesi.
+    \item \textbf{Taq polimerasi}: enzima termostabile che estende i primer lungo la sequenza stampo.
+\end{itemize}
+La reazione si svolge in cicli di denaturazione, appaiamento (annealing) e allungamento (estensione), generando un’esponenziale aumento delle copie del frammento target.
+Questa tecnica consente di ottenere un’amplificazione \emph{specifica} ed \emph{esponenziale} di un frammento di DNA, anche da un campione iniziale minimo
 
 \subsection{Obiettivo}
-OBIETTIVO
+Amplificazione di un inserto di DNA plasmidico (\emph{GPR3}) di circa 1000 bp mediante la tecnica di PCR (Polymerase Chain Reaction).
 
 \subsection{Strumentazione}
 \begin{itemize}
-  \item ITEM1
-  \item ITEM2
+    \item Micropipette (da 10~$\mu$l, 100~$\mu$l, 1000~$\mu$l) e puntali sterili
+    \item Eppendorf (da 250~$\mu$l)
+    \item Termociclatore
 \end{itemize}
 
-\subsection{Soluzioni e reagenti}
+\subsubsection{Il termociclatore}
+Il termociclatore è uno strumento che automatizza i cicli di riscaldamento e raffreddamento necessari per la PCR. In pochi secondi, può portare la temperatura del campione dai 95\textdegree C della denaturazione, ai 55\textdegree C dell’annealing, fino ai 72\textdegree C dell’estensione, ripetendo questi cicli decine di volte in modo preciso e riproducibile. In questo modo, il termociclatore garantisce l’amplificazione efficiente e selettiva del DNA.
+
+\begin{percheBox}
+    \textbf{A cosa serve la piastra riscaldata appoggiata sui tappini delle eppendorf?} \\
+    La piastra riscaldata del termociclatore mantiene il tappo dei tubi a una temperatura leggermente superiore rispetto alla reazione. Questo accorgimento previene la formazione di condensa e assicura che il volume della miscela rimanga costante.
+\end{percheBox}
+
+\begin{percheBox}
+    \textbf{Perché la piastra riscaldata previene la condensa?} \\
+    La condensa si forma quando il vapore acqueo caldo tocca una superficie più fredda, trasformandosi in goccioline. La piastra riscaldata mantiene la parte superiore del tubo alla stessa temperatura o leggermente superiore rispetto al mix di reazione, evitando la condensazione e assicurando la stabilità del volume e delle concentrazioni.
+\end{percheBox}
+
+
+\subsection{Soluzioni e altre sostanze}
 \begin{itemize}
-  \item ITEM1
-  \item ITEM2
+\footnotesize{
+      \item 27~$\mu$l H\textsubscript{2}O sterile
+    \item 4~$\mu$l buffer TAQ 10X
+    \item 2~$\mu$l MgCl\textsubscript{2} 50~mM
+    \item 2~$\mu$l Primer FOR (25~$\mu$M)
+    \item 2~$\mu$l Primer REV (25~$\mu$M)
+    \item 2~$\mu$l dNTPs (10~mM)
+    \item 1~$\mu$l DNA plasmidico contenente l’inserto da amplificare (GPR3)
+    \item 0.5~$\mu$l Taq polimerasi (solo per la reazione PCR+)
+}
 \end{itemize}
 
-\newpage
-
-\subsection{Procedura}
+\subsection{Procedimento}
 \begin{enumerate}
-  \item STEPS HERE
-  \item STEPS HERE
+    \item In un eppendorf da 250~$\mu$l preparare la seguente mix:
+    \begin{itemize}
+        \item 27~$\mu$l H\textsubscript{2}O sterile
+        \item 4~$\mu$l buffer TAQ (10X)
+        \item 2~$\mu$l MgCl\textsubscript{2} (50~mM)
+        \item 2~$\mu$l Primer FOR (25~$\mu$M)
+        \item 2~$\mu$l Primer REV (25~$\mu$M)
+        \item 2~$\mu$l dNTPs (10~mM)
+        \item 1~$\mu$l DNA plasmidico (GPR3)
+    \end{itemize}
+    Volume totale: 40~$\mu$l.
+    
+    \item Mescolare bene la miscela.
+    
+    \item Prelevare 20~$\mu$l e trasferirli in un nuovo eppendorf:
+    \begin{itemize}
+        \item Aggiungere 0.5~$\mu$l di Taq polimerasi $\rightarrow$ reazione \textbf{PCR+}.
+        \item Il restante mix sarà usato come controllo negativo (\textbf{PCR-}), senza Taq polimerasi.
+    \end{itemize}
+    
+    \item Caricare i campioni nel termociclatore e impostare il programma di amplificazione.
 \end{enumerate}
 
-\subsection{Conclusioni}
+\begin{criticitaBox}
+    \textbf{Criticita:}
+    Aggiungere prima l’acqua sterile e per ultima la Taq polimerasi per garantire la corretta miscelazione e preservare l’attività enzimatica.
+\end{criticitaBox}
 
-CONCLUSIONI
-\newpage
+
+\subsection{Programma termociclatore}
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{|l|c|c|}
+    \hline
+    \textbf{Step} & \textbf{Temperatura} & \textbf{Tempo} \\
+    \hline
+    Denaturazione iniziale & 95\textdegree C & 3 minuti \\
+    \hline
+    Amplificazione (35 cicli) & & \\
+    \quad Denaturazione & 95\textdegree C & 30 secondi \\
+    \quad Annealing & 55\textdegree C & 30 secondi \\
+    \quad Estensione & 72\textdegree C & 60 secondi \\
+    \hline
+    Estensione finale & 72\textdegree C & 5 minuti \\
+    \hline
+    \end{tabular}
+    \caption{Ciclo termico del programma di PCR}
+\end{table}
+
+\begin{criticitaBox}
+    \textbf{Criticità}:    
+    Anche minime contaminazioni possono compromettere i risultati della PCR, portando a falsi positivi o amplificazioni indesiderate.
+\end{criticitaBox}
+
+\subsection{Risultati attesi}
+Al termine del ciclo di amplificazione, il prodotto della PCR (circa 1000~bp) verrà analizzato mediante corsa su gel di agarosio per confermare la presenza e la dimensione attesa dell’amplificato.
+
+Dal punto di vista quantitativo, la PCR amplifica in maniera \emph{esponenziale}: ad ogni ciclo teoricamente il numero di copie raddoppia. Dopo 35 cicli, il numero di copie finali può teoricamente raggiungere un fattore di amplificazione di $2^{35} \approx 3.4 \times 10^{10}$ volte rispetto al numero di copie iniziali. Tuttavia, nella pratica, l’efficienza reale di amplificazione si attesta solitamente tra il 80–90\%, portando comunque a un incremento di milioni a miliardi di copie a partire da poche copie iniziali.
+
+
+\begin{noSplitBlock}
+
+\subsection{Un'evoluzione della PCR: RealTime-qPCR}
+
+\subsubsection{Che problema risolve RT-qPCR}
+La PCR tradizionale permette di amplificare frammenti specifici di DNA, ma fornisce solo un risultato qualitativo finale: la presenza o assenza del target. Tuttavia, in molti ambiti, come la diagnostica, la ricerca clinica e la quantificazione di cariche virali, è fondamentale non solo rilevare la presenza del target ma anche misurare la sua quantità in modo preciso e riproducibile. La real time-qPCR, o PCR quantitativa in tempo reale, nasce quindi dall’esigenza di:
+\begin{itemize}
+    \item Monitorare la quantità di DNA amplificato durante ogni ciclo di amplificazione agevolmente (automaticamente).
+    \item Evitare passaggi post-PCR (come la corsa su gel di agarosio), che richiedono tempo e possono introdurre errori.
+    \item Ottenere dati quantitativi e riproducibili per studi di espressione genica, cariche virali e analisi di polimorfismi.
+\end{itemize}
+
+\subsubsection{Principio di funzionamento semplificato}
+La real time-qPCR utilizza sonde a doppia etichetta chiamate \textbf{sonde TaqMan™}, queste sonde sono brevi filamenti di acidi nucleici che contengono:
+\begin{itemize}
+    \item Un \textbf{reporter fluorescente}, che emette fluorescenza quando eccitato.
+    \item Un \textbf{quencher}, una molecola che "spegne" la fluorescenza del reporter se in prossimità.
+\end{itemize}
+\footnotesize{All’inizio, la sonda è intatta e la fluorescenza del reporter è “spenta” dal quencher grazie al fenomeno di trasferimento di energia (\emph{Förster Resonance Energy Transfer}, o FRET). Durante la fase di estensione della PCR, la Taq polimerasi degrada la sonda ibridata al DNA target grazie alla sua attività esonucleasica 5’ $\rightarrow$ 3’. Questo degrada la sonda e separa il reporter dal quencher. Il risultato è un aumento della fluorescenza emessa, proporzionale alla quantità di DNA amplificato in ogni ciclo. In questo modo, la real time-qPCR consente di misurare in tempo reale e con elevata sensibilità l’andamento dell’amplificazione e la quantità di DNA presente nel campione.}
+
+\subsubsection{Cenni Storici: La strada che ha portato allo sviluppo della RealTime-qPCR}
+\footnotesize{
+  La PCR (Polymerase Chain Reaction) ha rivoluzionato la ricerca e la diagnostica clinica fin dalla sua invenzione negli anni ’80, permettendo la replicazione esponenziale di specifici frammenti di DNA. Tuttavia, la PCR tradizionale forniva i risultati solo al termine della reazione, rendendo impossibile una quantificazione diretta del materiale amplificato.
+
+La strada verso la realizzazione della real time-qPCR è stata lunga e ricca di scoperte. Già negli anni ’50, Arthur Kornberg aveva isolato la DNA polimerasi, ma la sua instabilità alle alte temperature ne limitava l’uso nella PCR. La svolta arrivò con la scoperta, nel 1965, del batterio \emph{Thermus aquaticus} da parte di Thomas Brock e Hudson Freeze: l’enzima Taq polimerasi isolato da questi batteri era termostabile e rivoluzionò l’amplificazione del DNA.
+
+Nel 1983, Kary Mullis ideò la PCR, introducendo tre fasi cicliche fondamentali — denaturazione, annealing e estensione — rese automatizzabili grazie all’avvento dei termociclatori negli anni ’80. Mentre la PCR tradizionale migliorava la quantità di DNA amplificato, rimaneva la sfida di misurare in modo accurato e in tempo reale la quantità di DNA prodotto.
+
+Negli anni ’90, gruppi di ricerca come quello di immunologi del Fox Chase Cancer Center svilupparono la qPCR (quantitative PCR), limitando il numero di cicli per restare nel range lineare dell’amplificazione e ottenere dati quantitativi. Tuttavia, i metodi richiedevano ancora interventi manuali e l’uso di materiali radioattivi, rendendoli poco adatti alla diagnostica di routine.
+
+Il salto definitivo si ebbe nel 1996 con il primo sistema commerciale di real time-qPCR (ABI PRISM 7700), che integrava la chimica TaqMan™. Grazie a sonde fluorescenti e alla tecnologia FRET (Förster Resonance Energy Transfer), la real time-qPCR permetteva di monitorare la fluorescenza emessa durante ogni ciclo di amplificazione, fornendo così una misura diretta e continua della quantità di DNA prodotto. Questo sistema, unendo la specificità e la sensibilità della PCR tradizionale con la possibilità di quantificare in tempo reale, ha reso la real time-qPCR uno strumento indispensabile per la diagnostica molecolare e la ricerca scientifica. La pandemia di COVID-19 ha infine consacrato questa tecnica come il “gold standard” per la rilevazione di agenti infettivi su scala globale.
+}
+\end{noSplitBlock}

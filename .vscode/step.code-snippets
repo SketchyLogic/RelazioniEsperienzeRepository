@@ -26,5 +26,12 @@
 			"\\end{noSplitBlock}"
 		],
 		"description": "Snippet per un passo di procedura con itemize e box personalizzati."
+	},
+	"nosplitblock": {
+		"prefix": "nosplitblock",
+		"body": [
+			"\\begin{noSplitBlock}",
+			"\\end{noSplitBlock}"
+		]
 	}
 }
