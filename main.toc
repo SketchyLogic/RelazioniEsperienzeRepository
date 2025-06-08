@@ -42,3 +42,9 @@
 \contentsline {subsubsection}{\numberline {5.8.1}Che problema risolve RT-qPCR}{18}{}%
 \contentsline {subsubsection}{\numberline {5.8.2}Principio di funzionamento semplificato}{18}{}%
 \contentsline {subsubsection}{\numberline {5.8.3}Cenni Storici: La strada che ha portato allo sviluppo della RealTime-qPCR}{18}{}%
+\contentsline {section}{\numberline {6}Preparazione di terreno LB solido}{19}{}%
+\contentsline {subsection}{\numberline {6.1}Introduzione}{19}{}%
+\contentsline {subsection}{\numberline {6.2}Composizione del terreno LB solido}{19}{}%
+\contentsline {subsection}{\numberline {6.3}Obiettivo}{19}{}%
+\contentsline {subsection}{\numberline {6.4}Strumentazione e reagenti}{19}{}%
+\contentsline {subsection}{\numberline {6.5}Procedura}{19}{}%

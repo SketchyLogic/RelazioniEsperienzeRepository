@@ -33,5 +33,28 @@
 			"\\begin{noSplitBlock}",
 			"\\end{noSplitBlock}"
 		]
+	},
+	"twoColumnLayoutSnippet": {
+		"prefix": "twocolumn",
+		"body": [
+			"\\twoColumnLayout",
+			"  {${1:COLUMN1}:}",
+			"  {",
+			"    \\item ${2:ITEM1}",
+			"    \\item ${3:ITEM2}",
+			"    \\item ${4:ITEM3}",
+			"    \\item ${5:ITEM4}",
+			"    \\item ${6:ITEM5}",
+			"  }",
+			"  {${7:COLUMN2}:}",
+			"  {",
+			"    \\item ${8:ITEM1}",
+			"    \\item ${9:ITEM2}",
+			"    \\item ${10:ITEM3}",
+			"    \\item ${11:ITEM4}",
+			"    \\item ${12:ITEM5}",
+			"  }"
+		],
+		"description": "Snippet per creare un layout a due colonne con elenchi."
 	}
 }

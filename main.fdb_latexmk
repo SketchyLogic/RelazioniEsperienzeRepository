@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1749349007.26728 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749349008.89012 0
-  "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749342395 699 7e7f40f0048219b8a9c5d4c598c80fff ""
+["pdflatex"] 1749410886.98534 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749410888.41116 0
+  "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749404922 746 07a7869bf2f6ba9bcb1864bd733ac1da ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1749158061 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1749158899 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcbx1000.tfm" 1749158535 1536 30fde759286ded71559881bfa2623939 ""
@@ -185,10 +185,11 @@
   "chapters/3.Spettrometria di un campione di RNA totale.tex" 1749248697 3222 07b97052cfebf6a4e7dce35844d53e61 ""
   "chapters/4.Restrizione del DNA ed analisi elettroforetica.tex" 1749322505 12560 741704f53500b3487e7039aee9aec31f ""
   "chapters/5.PCR.tex" 1749349006 10522 07e6c4f8ba5cc6ee6ecd6b48c853e9c0 ""
-  "main.aux" 1749349008 5492 c0613fdbc7c443fbb1bd88e458f17e88 "pdflatex"
-  "main.tex" 1749342395 699 7e7f40f0048219b8a9c5d4c598c80fff ""
-  "main.toc" 1749349008 3518 64dc3d163fb682aab95d115a96d03eed "pdflatex"
-  "style/custom.sty" 1749228561 1424 ea09c5c2630fb2a481b602f2ef30935c ""
+  "chapters/6.Preparazione LB solido.tex" 1749410886 2758 c3d0b32acbca9358a9d5e5821f8c808c ""
+  "main.aux" 1749410888 6173 6ee9abfed5c7215f4c956318f69cfd84 "pdflatex"
+  "main.tex" 1749404922 746 07a7869bf2f6ba9bcb1864bd733ac1da ""
+  "main.toc" 1749410888 3953 c27a569bf5f7753b9c513ddaf65a52f8 "pdflatex"
+  "style/custom.sty" 1749407036 1345 1cf33c71f6e1341d5a335bd096a186fc ""
   (generated)
   "main.aux"
   "main.log"

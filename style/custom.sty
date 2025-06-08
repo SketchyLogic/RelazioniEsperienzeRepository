@@ -13,29 +13,6 @@
   enhanced,
 }
 
-% % Box Accorgimento
-% \newtcolorbox{accorgimentoBox}{
-%   colback=orange!20,
-%   coltext=black,
-%   arc=1mm,
-%   fontupper=\small,  % rende più piccolo il testo nel box
-% }
-
-% % Box Perché
-% \newtcolorbox{percheBox}{
-%   colback=green!20,
-%   coltext=black,
-%   arc=1mm,
-%   fontupper=\small,
-% }
-
-% % Box Criticità
-% \newtcolorbox{criticitaBox}{
-%   colback=red!15,
-%   coltext=black,
-%   arc=1mm,
-%   fontupper=\small,
-% }
 
 % Box Accorgimento (giallo tenue)
 \newtcolorbox{accorgimentoBox}{
@@ -61,6 +38,13 @@
   fontupper=\small,
 }
 
+\newtcolorbox{notaBox}{
+  colback=gray!10,
+  coltext=black,
+  arc=1mm,
+  fontupper=\small,
+}
+
 % Personalizzo il trattino nei bullet
 \renewcommand{\labelitemi}{–}
 
@@ -68,4 +52,19 @@
   {\par\vspace{1em}\noindent\begin{minipage}{0.9\textwidth}}
   {\end{minipage}\par}
 
-% \newenvironment{noSplitBlock}{}{}
+\newcommand{\twoColumnLayout}[4]{
+  \noindent
+  \begin{minipage}{0.45\textwidth}
+  \textbf{#1}
+  \begin{itemize}\footnotesize
+  #2
+  \end{itemize}
+  \end{minipage}
+  \hfill
+  \begin{minipage}{0.45\textwidth}
+  \textbf{#3}
+  \begin{itemize}\footnotesize
+  #4
+  \end{itemize}
+  \end{minipage}
+}
