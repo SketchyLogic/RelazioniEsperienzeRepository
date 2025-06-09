@@ -1,0 +1,100 @@
+\section {Preparazione piastre per trasformazione DH5$\alpha$}
+
+\subsection{Introduzione}
+Le piastre di LB-agar arricchite con antibiotici e indicatori cromogenici sono fondamentali per la selezione e il riconoscimento dei batteri trasformati con plasmidi contenenti geni di resistenza o reporter come \textit{lacZ}. In questa sezione viene spiegato come preparare due tipologie di piastre: \textbf{Piastra con Kan/Caf} e \textbf{Piastra con Amp/IPTG/Xgal}.
+
+\subsection{Approfondimento su Piastra con Kan/Caf}
+La \textbf{Piastra con Kan/Caf} contiene \textbf{kanamicina} e \textbf{cloramfenicolo} come antibiotici selettivi. Questi antibiotici inibiscono la crescita dei batteri che non contengono il plasmide con i geni di resistenza corrispondenti. Le colonie che crescono su queste piastre possiedono un plasmide che conferisce resistenza a entrambi gli antibiotici. Questa strategia è utile per la selezione di cloni trasformati in esperimenti di clonaggio o in espressioni in cui è richiesta la selezione multipla.
+
+\subsection{Approfondimento su Piastra con Amp/IPTG/Xgal}
+La \textbf{Piastra con Amp/IPTG/Xgal} combina la selezione antibiotica (ampicillina) con un sistema cromogenico. 
+\begin{itemize}\footnotesize
+  \item \textbf{Ampicillina}: seleziona i batteri trasformati contenenti il plasmide con il gene di resistenza.
+  \item \textbf{IPTG}: è un induttore del promotore \textit{lac}, stimolando l’espressione del gene \textit{lacZ} codificante la $\beta$-galattosidasi.
+  \item \textbf{X-gal}: substrato cromogenico che, in presenza di $\beta$-galattosidasi, produce un composto blu.
+\end{itemize}
+Le colonie che esprimono $\beta$-galattosidasi appaiono blu, mentre quelle che contengono un inserto nel gene \textit{lacZ} (interruzione) restano bianche.
+
+\subsection{Approfondimento tecnica blue-white screening}
+
+La tecnica del \textbf{blue-white screening} è un metodo rapido ed efficace per identificare colonie batteriche che contengono plasmidi ricombinanti con l’inserto desiderato. Essa sfrutta il gene \textit{lacZ$\alpha$}, che codifica la subunità $\alpha$ della $\beta$-galattosidasi. Questo gene è presente nel plasmide e complementa una porzione mancante (\textit{lacZ$\omega$}) nel cromosoma del batterio ospite, ripristinando così l’attività dell’enzima.
+
+\vspace{0.5em}
+
+\textbf{Dopo la trasformazione}, alcuni batteri integrano il plasmide, mentre altri no.
+\begin{itemize}\footnotesize
+\item I batteri che non hanno integrato alcun plasmide vengono eliminati perché non possiedono il gene di resistenza agli antibiotici e quindi non sopravvivono sulle piastre contenenti antibiotico.
+\item I batteri che hanno integrato il plasmide possiedono il gene di resistenza e quindi formano colonie.
+\end{itemize}
+
+\vspace{0.5em}
+
+Tuttavia, c’è un’ulteriore distinzione: alcuni plasmidi integrati potrebbero essere “vuoti” (senza inserto), mentre altri contengono l’inserto del gene di interesse. È qui che entra in gioco il concetto di \textbf{“insertional inactivation”}.
+
+\vspace{0.5em}
+
+\textbf{Insertional inactivation} significa che l’inserto del gene di interesse viene clonato all’interno del gene \textit{lacZ$\alpha$}.
+\begin{itemize}\footnotesize
+\item \textbf{Plasmide vuoto (senza inserto):} il gene \textit{lacZ$\alpha$} è intatto e funziona. L’enzima $\beta$-galattosidasi viene prodotto e scinde il substrato cromogenico \textbf{X-gal}, generando un composto blu $\Rightarrow$ \textbf{colonie blu}.
+\item \textbf{Plasmide con inserto:} l’inserto interrompe il gene \textit{lacZ$\alpha$}, inattivandolo. L’enzima $\beta$-galattosidasi non viene prodotto e l’X-gal non viene scisso $\Rightarrow$ \textbf{colonie bianche}.
+\end{itemize}
+
+\vspace{0.5em}
+
+Questa distinzione visiva permette di selezionare rapidamente le colonie “bianche” (con inserto) e distinguere i cloni ricombinanti corretti, risparmiando tempo e risorse nella verifica del clonaggio.
+La combinazione di antibiotico (per selezione positiva) e sistema cromogenico (per la distinzione tra plasmide vuoto e ricombinante) è una tecnica potente e versatile.
+
+\newpage
+\subsection{Obiettivo}
+Preparare piastre LB-agar supplementate con antibiotici e substrati cromogenici per la successiva trasformazione e selezione dei batteri DH5$\alpha$.
+
+  \vspace{1em}
+\twoColumnLayout
+    {Reagenti:}
+    {
+      \item Bilancia analitica
+      \item Becher
+      \item Bacchetta di vetro o magnete per agitazione
+      \item Microonde
+      \item Falcon
+      \item Piastre Petri
+      \item Pipette e puntali
+      \item Cappa a flusso laminare
+    }
+  {Strumentazione:}
+  {
+  \item LB-agar solido
+  \item Soluzioni stock di antibiotici:
+    \begin{itemize}\footnotesize
+      \item Kanamicina 1000X
+      \item Cloramfenicolo (CAF) 1000X
+      \item Ampicillina 1000X
+    \end{itemize}
+  \item Soluzioni di:
+    \begin{itemize}\footnotesize
+      \item IPTG 0.5 mM
+      \item X-gal 80 $\mu$g/mL
+    \end{itemize}
+  \item Acqua milliQ
+  }
+
+\subsection{Procedura}
+\begin{enumerate}\footnotesize
+  \item Sciogliere il terreno LB-agar (se già solidificato) nel microonde o su piastra riscaldante.
+  \item Lasciare raffreddare leggermente e, sotto cappa, trasferire 25 mL in una Falcon sterile.
+  \item Aggiungere 25 $\mu$L di CAF 1000X e 25 $\mu$L di Kan 1000X. Mescolare e versare in una piastra Petri (\textbf{Piastra con Kan/Caf}).
+  \item Ai rimanenti 25 mL aggiungere:
+    \begin{itemize}
+      \item 25 $\mu$L di Ampicillina (dallo stock 1000X)
+      \item 25 $\mu$L di IPTG 0.5 mM
+      \item 25 $\mu$L di X-gal 80 $\mu$g/mL
+    \end{itemize}
+    Mescolare bene e versare in un’altra piastra Petri (\textbf{Piastra con Amp/IPTG/Xgal}).
+  \item Lasciare le piastre semi-aperte sotto cappa fino a completa solidificazione dell’agar.
+  \item Chiudere e conservare le piastre a 4~$^\circ$C.
+\end{enumerate}
+
+\subsection{Conclusioni}
+Le piastre preparate con antibiotici e substrati cromogenici sono pronte per la selezione dei batteri trasformati. La \textbf{Piastra con Kan/Caf} permette la selezione di plasmidi con geni di resistenza alla kanamicina o cloramfenicolo, mentre la \textbf{Piastra con Amp/IPTG/Xgal} consente sia la selezione con ampicillina sia la rivelazione di colonie “blue/white” per il gene \textit{lacZ}. Questa preparazione garantisce un ambiente selettivo e cromogenico essenziale per esperimenti di clonaggio e trasformazione.
+
+\newpage
