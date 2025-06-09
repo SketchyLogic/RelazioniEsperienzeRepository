@@ -311,9 +311,6 @@ INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cbfonts/grmn0900.tfm
 INPUT ./chapters/8.Preparazione piastre per trasformazione DH5.tex
 INPUT ./chapters/8.Preparazione piastre per trasformazione DH5.tex
 INPUT chapters/8.Preparazione piastre per trasformazione DH5.tex
-INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT main.aux
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
@@ -322,7 +319,6 @@ INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
