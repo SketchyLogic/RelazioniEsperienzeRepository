@@ -66,3 +66,8 @@
 \contentsline {subsection}{\numberline {9.3}Obiettivo}{26}{}%
 \contentsline {subsection}{\numberline {9.4}Procedura}{26}{}%
 \contentsline {subsection}{\numberline {9.5}Conclusioni}{26}{}%
+\contentsline {section}{\numberline {10}Colony PCR}{27}{}%
+\contentsline {subsection}{\numberline {10.1}Introduzione}{27}{}%
+\contentsline {subsection}{\numberline {10.2}Obiettivo}{27}{}%
+\contentsline {subsection}{\numberline {10.3}Procedura}{27}{}%
+\contentsline {subsection}{\numberline {10.4}Conclusioni}{27}{}%

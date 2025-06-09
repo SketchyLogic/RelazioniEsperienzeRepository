@@ -1,0 +1,60 @@
+\section{Colony PCR}
+
+\subsection{Introduzione}
+La \textbf{Colony PCR} è una variante della PCR tradizionale in cui la colonia batterica intera viene usata come sorgente diretta del DNA stampo, senza un’estrazione preventiva.\\
+A differenza della PCR “normale”, dove si parte da DNA plasmidico o genomico purificato, la colony PCR permette di verificare in modo rapido la presenza di un inserto corretto direttamente dalle colonie cresciute sulla piastra.\\
+Questa tecnica è particolarmente utile per confermare rapidamente la corretta integrazione di un inserto in plasmidi clonati.
+
+\begin{insightBox}
+  \textbf{Insight:} Una differenza fondamentale nella Colony PCR è il \textbf{primo ciclo di denaturazione}. In questa fase, la temperatura è elevata (95~$^\circ$C per 3 minuti) per \textbf{lisare le cellule batteriche} e liberare il DNA plasmidico, creando così una situazione analoga a quella di una PCR standard con DNA purificato.
+\end{insightBox}
+
+\subsection{Obiettivo}
+Verificare rapidamente la presenza di un inserto specifico in colonie batteriche trasformate tramite l’amplificazione del DNA plasmidico direttamente dalla colonia.
+
+\vspace{1em}
+\twoColumnLayout
+{Strumentazione:}
+{
+  \item Termociclatore
+  \item Micropipette e puntali sterili
+  \item Provette da PCR
+  \item Strumenti per gel elettroforesi
+}
+{Reagenti:}
+{
+  \item 20~$\mu$L di acqua sterile per sciogliere la colonia
+  \item 15~$\mu$L di PCR mix
+  \item Colonie bianche e blu da testare
+  \item Gel di agarosio 0.8\% con SyberSafe per analisi finale
+}
+
+\subsection{Procedura}
+\begin{enumerate}\footnotesize
+  \item Prendere due provette da PCR, etichettarle e aggiungere 20~$\mu$L di acqua sterile.
+  \item Con una punta pulita, toccare una colonia bianca e dissolverla nell’acqua di una provetta. Ripetere con una colonia blu nella seconda provetta.
+  \item Prelevare 15~$\mu$L di PCR mix e trasferirli in due provette PCR nuove.
+  \item Aggiungere 5~$\mu$L della sospensione di colonia a ciascuna provetta contenente il mix e mescolare con il vortex.
+  \item Trasferire le provette nel termociclatore e avviare il seguente programma:
+    \begin{itemize}
+      \item \textbf{Denaturazione iniziale}: 95~$^\circ$C per 3 minuti
+      \item \textbf{25 cicli di amplificazione}:
+        \begin{itemize}
+          \item 95~$^\circ$C per 30 secondi (denaturazione)
+          \item 55~$^\circ$C per 30 secondi (annealing)
+          \item 72~$^\circ$C per 60 secondi (estensione)
+        \end{itemize}
+      \item \textbf{Estensione finale}: 72~$^\circ$C per 5 minuti
+    \end{itemize}
+  \item Preparare un gel di agarosio allo 0.8\% (vedi sezioni precedenti)
+  \item Dopo la corsa elettroforetica, analizzare i campioni per confermare la presenza dell’inserto.
+\end{enumerate}
+
+\begin{criticitaBox}
+  \textbf{Criticità:} Nella colony PCR, il design dei primer forward e reverse deve essere estremamente specifico per il gene di interesse. La reazione avviene in un ambiente complesso, ricco di DNA batterico e plasmidico potenzialmente non correlato. Il potenziale per appaiamenti a sequenze diverse da quella target è maggiore, risultando poi, in amplificazioni spurie.
+\end{criticitaBox}
+
+\subsection{Conclusioni}
+\footnotesize{La Colony PCR è una tecnica rapida e potente per identificare cloni batterici positivi direttamente dalle colonie, evitando passaggi laboriosi di purificazione del DNA. Con opportuni accorgimenti sul design dei primer e il corretto controllo del primo ciclo di denaturazione, si ottengono risultati affidabili ed efficienti.}
+
+\newpage

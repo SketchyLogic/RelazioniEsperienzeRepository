@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1749438825.97438 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749438827.63751 0
-  "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749434078 952 94d33824b5fe055ed9fefd48fe36bde5 ""
+["pdflatex"] 1749472607.31006 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749472608.99473 0
+  "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749471692 2212 e82498347749b506486798ff395d1d37 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1749158061 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1749158899 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcbx1000.tfm" 1749158535 1536 30fde759286ded71559881bfa2623939 ""
@@ -201,6 +201,7 @@
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1749163859 3598365 8f459ec18faefcd5ac07bf7d85f50f54 ""
   "c:/texlive/2025/texmf.cnf" 1749163632 713 e69b156964470283e0530f5060668171 ""
   "chapters/1.Miniprep - Preparazione di DNA plasmidico tramite lisi alcalina.tex" 1749221934 11349 a74882533b0c7b893b17ea1c52374b31 ""
+  "chapters/10.Colony PCR.tex" 1749472606 3622 1991670324e5684003fd1d03be004d1e ""
   "chapters/2.Estrazione dell RNA totale con TRIzol e Quantificazione.tex" 1749245728 9606 bf1622cf546acb8214153a619ad40d6f ""
   "chapters/3.Spettrometria di un campione di RNA totale.tex" 1749248697 3222 07b97052cfebf6a4e7dce35844d53e61 ""
   "chapters/4.Restrizione del DNA ed analisi elettroforetica.tex" 1749322505 12560 741704f53500b3487e7039aee9aec31f ""
@@ -209,9 +210,9 @@
   "chapters/7.Preparazione di cellule competenti.tex" 1749422005 7589 4f6db8f3a4a5f35c27d7bcdc735158ad ""
   "chapters/8.Preparazione piastre per trasformazione batterica.tex" 1749433744 6563 b3733a566e6f04731f8083dee91e8301 ""
   "chapters/9.Trasformazione batterica.tex" 1749438825 6515 828fb90bf7ef5b4cdc14829a4b26371d ""
-  "main.aux" 1749438827 8264 e5e12f8f65ef358dc3ee73988135dffc "pdflatex"
-  "main.tex" 1749434078 952 94d33824b5fe055ed9fefd48fe36bde5 ""
-  "main.toc" 1749438827 5306 1620f318722d2b8d6796487b8d3ca527 "pdflatex"
+  "main.aux" 1749472608 8785 218d4093bc1dc5dd6de35b187e11aaaa "pdflatex"
+  "main.tex" 1749471692 2212 e82498347749b506486798ff395d1d37 ""
+  "main.toc" 1749472608 5622 01f5599b4756be69e63eb47ae828dcd6 "pdflatex"
   "style/custom.sty" 1749419131 1448 353ec0dd4b4bd1bc121fb14050388ce2 ""
   (generated)
   "main.aux"

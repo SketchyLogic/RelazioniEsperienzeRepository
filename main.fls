@@ -314,6 +314,9 @@ INPUT chapters/8.Preparazione piastre per trasformazione batterica.tex
 INPUT ./chapters/9.Trasformazione batterica.tex
 INPUT ./chapters/9.Trasformazione batterica.tex
 INPUT chapters/9.Trasformazione batterica.tex
+INPUT ./chapters/10.Colony PCR.tex
+INPUT ./chapters/10.Colony PCR.tex
+INPUT chapters/10.Colony PCR.tex
 INPUT main.aux
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
