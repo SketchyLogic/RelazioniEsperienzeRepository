@@ -1,0 +1,87 @@
+\section {Trasformazione cellule competenti}
+\subsection{Introduzione}
+La trasformazione batterica è una tecnica fondamentale della biologia molecolare che permette l’introduzione di plasmidi ricombinanti all’interno delle cellule ospiti. In questa esperienza, la trasformazione è stata effettuata sulle cellule competenti \textit{Escherichia coli} DH5$\alpha$ utilizzando il plasmide pUC18-mix.\\
+Il plasmide contiene geni di resistenza agli antibiotici e il sistema cromogenico \textit{lacZ$\alpha$} necessario per la selezione tramite blue-white screening. Questo approccio consente di identificare rapidamente i batteri che hanno integrato il plasmide ricombinante con l’inserto corretto, sfruttando sia la resistenza antibiotica sia il cambiamento cromogenico indotto dalla scissione di X-gal.\\
+La tecnica si basa su una combinazione di fasi: incubazione a freddo, shock termico per facilitare l’ingresso del plasmide, e infine crescita in terreno selettivo per identificare i cloni trasformati e distinguere quelli ricombinanti.
+
+\subsection{Approfondimento tecnica blue-white screening}
+
+La tecnica del \textbf{blue-white screening} è un metodo rapido ed efficace per identificare colonie batteriche che contengono plasmidi ricombinanti con l’inserto desiderato. Essa sfrutta il gene \textit{lacZ$\alpha$}, che codifica la subunità $\alpha$ della $\beta$-galattosidasi. Questo gene è presente nel plasmide e complementa una porzione mancante (\textit{lacZ$\omega$}) nel cromosoma del batterio ospite, ripristinando così l’attività dell’enzima.
+
+\vspace{0.5em}
+
+\textbf{Dopo la trasformazione}, alcuni batteri integrano il plasmide, mentre altri no.
+\begin{itemize}\footnotesize
+	\item I batteri che non hanno integrato alcun plasmide vengono eliminati perché non possiedono il gene di resistenza agli antibiotici e quindi non sopravvivono sulle piastre contenenti antibiotico.
+	\item I batteri che hanno integrato il plasmide possiedono il gene di resistenza e quindi formano colonie.
+\end{itemize}
+\vspace{0.5em}
+Tuttavia, c’è un’ulteriore distinzione: alcuni plasmidi integrati potrebbero essere “vuoti” (senza inserto), mentre altri contengono l’inserto del gene di interesse. È qui che entra in gioco il concetto di \textbf{“insertional inactivation”}.
+
+\textbf{Insertional inactivation} significa che l’inserto del gene di interesse viene clonato all’interno del gene \textit{lacZ$\alpha$}.
+\begin{itemize}\footnotesize
+	\item \textbf{Plasmide vuoto (senza inserto):} il gene \textit{lacZ$\alpha$} è intatto e funziona. L’enzima $\beta$-galattosidasi viene prodotto e scinde il substrato cromogenico \textbf{X-gal}, generando un composto blu $\Rightarrow$ \textbf{colonie blu}.
+	\item \textbf{Plasmide con inserto:} l’inserto interrompe il gene \textit{lacZ$\alpha$}, inattivandolo. L’enzima $\beta$-galattosidasi non viene prodotto e l’X-gal non viene scisso $\Rightarrow$ \textbf{colonie bianche}.
+\end{itemize}
+
+\vspace{0.5em}
+
+Questa distinzione visiva permette di selezionare rapidamente le colonie “bianche” (con inserto) e distinguere i cloni ricombinanti corretti, risparmiando tempo e risorse nella verifica del clonaggio.
+La combinazione di antibiotico (per selezione positiva) e sistema cromogenico (per la distinzione tra plasmide vuoto e ricombinante) è una tecnica potente e versatile.
+
+\newpage
+\subsection{Obiettivo}
+Effettuare la trasformazione delle cellule competenti DH5$\alpha$ con il plasmide pUC18-mix e selezionare i cloni ricombinanti attraverso la tecnica del blue-white screening.
+
+\vspace{1em}
+\twoColumnLayout
+{Reagenti:}
+{
+	\item pUC18-mix (plasmide da trasformare)
+	\item Cellule competenti DH5$\alpha$
+	\item Terreno LB liquido (LB-Agar)
+	\item Piastra petri con LB-Amp-Xgal-IPTG (vedi sezione precedente)
+}
+{Strumentazione:}
+{
+	\item Micropipette e puntali
+	\item Eppendorf
+	\item Bagno termostatato (42~$^\circ$C)
+	\item Ghiaccio
+	\item Cappa a flusso laminare
+	\item Incubatore a 37~$^\circ$C
+}
+
+\subsection{Procedura}
+\begin{enumerate}\footnotesize
+	\item Trasferire 100~$\mu$L di cellule competenti DH5$\alpha$ in una eppendorf sterile sotto cappa.
+	\item Aggiungere 1~$\mu$L di plasmide pUC18-mix e mescolare delicatamente.
+	\item Incubare la sospensione in ghiaccio per 20-30 minuti.
+	\item Effettuare lo shock termico immergendo la provetta nel bagno a 42~$^\circ$C per 1 minuto.
+	\item Raffreddare rapidamente in ghiaccio per 5 minuti.
+	\item Aggiungere 200~$\mu$L di terreno LB liquido e incubare a 37~$^\circ$C per circa 1 ora (per esprimere la resistenza agli antibiotici).
+	\item Piastrare 100~$\mu$L della sospensione sulle piastre LB-Amp-Xgal-IPTG e incubare a 37~$^\circ$C overnight (o a temperatura ambiente per tutto il weekend).
+\end{enumerate}
+
+\begin{percheBox}
+  \textbf{Perché lo shock termico?}
+
+  Lo \textbf{shock termico} consiste in un rapido riscaldamento a 42~$^\circ$C seguito da un raffreddamento in ghiaccio. Questa sequenza crea un gradiente termico che favorisce l’ingresso e mantenimento del plasmide.
+  \begin{itemize}\footnotesize
+    \item \textbf{Effetto della temperatura alta (42~$^\circ$C)}: aumenta la fluidità della membrana plasmatica e temporaneamente la sua permeabilità, facilitando il passaggio del DNA plasmidico all’interno delle cellule.
+    \item \textbf{Effetto del raffreddamento rapido in ghiaccio}: aiuta a “sigillare” la membrana e stabilizzare la struttura cellulare, evitando la fuoriuscita del materiale interno e consolidando l’ingresso del plasmide.
+  \end{itemize}
+\end{percheBox}
+
+
+\begin{percheBox}
+  \textbf{Perché incubare in LB liquido per 1 ora prima della piastratura?}
+
+  Dopo la trasformazione, le cellule hanno bisogno di periodo di \textbf{recupero} in un terreno senza antibiotico (LB liquido) per iniziare a esprimere i geni di resistenza (ad es. $\beta$-lattamasi per l’ampicillina). Questo step evita di selezionare cellule che non hanno ancora avuto tempo di produrre l’enzima e quindi morirebbero prematuramente se piastate subito su un terreno contenente antibiotico.
+\end{percheBox}
+
+
+\subsection{Conclusioni}
+L’esperimento di trasformazione delle cellule DH5$\alpha$ ha permesso di ottenere colonie resistenti agli antibiotici, distinguendo visivamente i cloni ricombinanti (colonie bianche) da quelli non ricombinanti (colonie blu) grazie al blue-white screening che combina selezione antibiotica e cromogenica.
+
+\newpage

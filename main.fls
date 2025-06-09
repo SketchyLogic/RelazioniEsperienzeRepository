@@ -308,9 +308,12 @@ INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cbfonts/grmn0800.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cbfonts/grmn1000.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cbfonts/grmn0900.tfm
-INPUT ./chapters/8.Preparazione piastre per trasformazione DH5.tex
-INPUT ./chapters/8.Preparazione piastre per trasformazione DH5.tex
-INPUT chapters/8.Preparazione piastre per trasformazione DH5.tex
+INPUT ./chapters/8.Preparazione piastre per trasformazione batterica.tex
+INPUT ./chapters/8.Preparazione piastre per trasformazione batterica.tex
+INPUT chapters/8.Preparazione piastre per trasformazione batterica.tex
+INPUT ./chapters/9.Trasformazione batterica.tex
+INPUT ./chapters/9.Trasformazione batterica.tex
+INPUT chapters/9.Trasformazione batterica.tex
 INPUT main.aux
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb

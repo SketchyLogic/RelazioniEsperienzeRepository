@@ -60,3 +60,9 @@
 \contentsline {subsection}{\numberline {8.4}Obiettivo}{24}{}%
 \contentsline {subsection}{\numberline {8.5}Procedura}{24}{}%
 \contentsline {subsection}{\numberline {8.6}Conclusioni}{24}{}%
+\contentsline {section}{\numberline {9}Trasformazione cellule competenti}{25}{}%
+\contentsline {subsection}{\numberline {9.1}Introduzione}{25}{}%
+\contentsline {subsection}{\numberline {9.2}Approfondimento tecnica blue-white screening}{25}{}%
+\contentsline {subsection}{\numberline {9.3}Obiettivo}{26}{}%
+\contentsline {subsection}{\numberline {9.4}Procedura}{26}{}%
+\contentsline {subsection}{\numberline {9.5}Conclusioni}{26}{}%

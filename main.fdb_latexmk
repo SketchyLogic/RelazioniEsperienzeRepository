@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1749433741.79807 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749433743.46006 0
-  "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749427265 897 c615eddbb1d3e741776f47084e3afd42 ""
+["pdflatex"] 1749438825.97438 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749438827.63751 0
+  "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749434078 952 94d33824b5fe055ed9fefd48fe36bde5 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1749158061 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1749158899 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcbx1000.tfm" 1749158535 1536 30fde759286ded71559881bfa2623939 ""
@@ -207,10 +207,11 @@
   "chapters/5.PCR.tex" 1749349006 10522 07e6c4f8ba5cc6ee6ecd6b48c853e9c0 ""
   "chapters/6.Preparazione LB solido.tex" 1749410886 2758 c3d0b32acbca9358a9d5e5821f8c808c ""
   "chapters/7.Preparazione di cellule competenti.tex" 1749422005 7589 4f6db8f3a4a5f35c27d7bcdc735158ad ""
-  "chapters/8.Preparazione piastre per trasformazione DH5.tex" 1749433739 6563 b3733a566e6f04731f8083dee91e8301 ""
-  "main.aux" 1749433743 7587 5501afc5c40b566887140ca7c42236c3 "pdflatex"
-  "main.tex" 1749427265 897 c615eddbb1d3e741776f47084e3afd42 ""
-  "main.toc" 1749433743 4875 abdc8da9fa9e6d8e559d0bb767db5a2a "pdflatex"
+  "chapters/8.Preparazione piastre per trasformazione batterica.tex" 1749433744 6563 b3733a566e6f04731f8083dee91e8301 ""
+  "chapters/9.Trasformazione batterica.tex" 1749438825 6515 828fb90bf7ef5b4cdc14829a4b26371d ""
+  "main.aux" 1749438827 8264 e5e12f8f65ef358dc3ee73988135dffc "pdflatex"
+  "main.tex" 1749434078 952 94d33824b5fe055ed9fefd48fe36bde5 ""
+  "main.toc" 1749438827 5306 1620f318722d2b8d6796487b8d3ca527 "pdflatex"
   "style/custom.sty" 1749419131 1448 353ec0dd4b4bd1bc121fb14050388ce2 ""
   (generated)
   "main.aux"
