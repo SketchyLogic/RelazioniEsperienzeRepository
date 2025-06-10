@@ -317,6 +317,13 @@ INPUT chapters/9.Trasformazione batterica.tex
 INPUT ./chapters/10.Colony PCR.tex
 INPUT ./chapters/10.Colony PCR.tex
 INPUT chapters/10.Colony PCR.tex
+INPUT ./chapters/11.Mantenimento di colture cellulari di mammifero.tex
+INPUT ./chapters/11.Mantenimento di colture cellulari di mammifero.tex
+INPUT chapters/11.Mantenimento di colture cellulari di mammifero.tex
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT ./chapters/relazioni rimanenti.tex
+INPUT ./chapters/relazioni rimanenti.tex
+INPUT chapters/relazioni rimanenti.tex
 INPUT main.aux
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
@@ -341,6 +348,7 @@ INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb
+INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/cbfonts/grmi1000.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/cbfonts/grmn0800.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/cbfonts/grmn0900.pfb

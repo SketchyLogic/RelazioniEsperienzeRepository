@@ -1,0 +1,124 @@
+\section {Mantenimento di colture cellulari di mammifero}
+
+\subsection{Introduzione}
+Il mantenimento di colture cellulari di mammifero è un passaggio fondamentale per numerosi studi di biologia molecolare e cellulare, come l’analisi dell’espressione proteica, la trasfezione di plasmidi e la caratterizzazione funzionale delle proteine. Questa esperienza si concentra sul mantenimento e la subcultura di cellule \texttt{HEK293T} trasfettate, ponendo attenzione a tutte le precauzioni per evitare contaminazioni e garantire l’integrità e la vitalità delle colture.
+
+\subsection{Cellule HEK293T e relazione con T-antigene SV40}
+
+L’SV40 (\textit{Simian Virus 40}) è un virus che infetta cellule di primate e il suo genoma contiene un gene che codifica per una proteina virale chiamata \textbf{T-antigene SV40}.  
+Questa proteina ha la funzione di riconoscere e attivare l’\textbf{origine di replicazione SV40}, una sequenza di DNA specifica presente nel genoma del virus stesso.
+
+Nelle applicazioni di biologia molecolare, l’origine di replicazione SV40 viene inserita in plasmidi per consentire la loro replicazione efficiente nelle cellule eucariotiche.  
+
+Le cellule \texttt{HEK293T}, utilizzate in questa esperienza, sono state modificate per esprimere il T-antigene SV40 in modo stabile. Questo le rende capaci di riconoscere e attivare l’origine di replicazione SV40 presente in plasmidi \texttt{pcDNA.3-HA} e \texttt{pcDNA.3-$\beta$Catenin-HA}, facilitando così la replicazione e la stabilità del plasmide all’interno delle cellule.
+\vspace{0.25em}\\
+In sintesi, il T-antigene SV40 nelle cellule \texttt{HEK293T} consente una replicazione più rapida e abbondante dei plasmidi contenenti l’origine SV40, rendendole ideali per studi di espressione proteica e altri esperimenti in cui è necessario avere molte copie di un plasmide.
+
+\subsection{Cos'è un plasmide taggato e a cosa serve}
+
+I plasmidi utilizzati in questa esperienza, come \texttt{pcDNA3-HA} e \texttt{pcDNA3-$\beta$Catenin-HA}, sono \textbf{taggati} con una piccola sequenza aggiuntiva chiamata \textit{HA tag} (Hemagglutinin tag).  
+Il \textbf{tag} è un breve peptide che viene fuso alla proteina di interesse e che non ne altera significativamente la funzione o la struttura.  
+\vspace{0.5em}\\
+\textbf{Come funziona il tag:}
+\begin{itemize}\footnotesize
+  \item Il tag \textit{HA} è riconosciuto da anticorpi specifici.
+  \item Permette di \textbf{rilevare e quantificare} la proteina espressa durante gli esperimenti (es. Western blot, immunoprecipitazione).
+  \item Facilita l’analisi della localizzazione intracellulare in tecniche come l’immunocitochimica.
+  \item Garantisce che le proteine esogene (ad esempio, la $\beta$-Catenina) possano essere \textbf{identificate con facilità} rispetto alle proteine endogene normalmente presenti nelle cellule.
+\end{itemize}
+
+In sintesi, i tag come \textit{HA} sono strumenti per confermare la presenza e la corretta espressione di una proteina d'interesse della cellula host.
+
+\newpage
+\subsection{Obiettivo}
+L’obiettivo di questa esperienza è mantenere e suddividere correttamente le colture cellulari di \texttt{HEK293T} in adesione, garantendo la vitalità e la purezza delle cellule per futuri esperimenti di espressione proteica e analisi molecolare.
+\vspace{0.5em}\\
+In particolare, l’esperienza prevede la produzione e la gestione di due popolazioni di cellule:
+\begin{itemize}\footnotesize
+  \item Una coltura trasfettata con \texttt{pcDNA3-$\beta$Catenin-HA} per studiare gli effetti dell’espressione di questa proteina nelle cellule.
+  \item Una coltura trasfettata con \texttt{pcDNA3-HA} (\textbf{plasmide vuoto}) come controllo negativo.
+\end{itemize}
+Questa distinzione permette di confrontare le due condizioni sperimentali e ottenere risultati affidabili e riproducibili.
+molecolare.\\
+\vspace{0.5em}
+\subsection{Strumenti e soluzioni}
+\twoColumnLayout
+  {Strumentazione:}
+  {
+  \item Cappa a flusso laminare
+  \item Microscopio invertito
+  \item Pipette e puntali sterili
+  \item Tubi Falcon sterili (15 mL e 50 mL)
+  \item Pipetta aspirante
+  \item Centrifuga da laboratorio
+  \item Incubatore a 37~$^\circ$C con 5\% CO$_2$
+  \item Etanolo al 70\% per la sterilizzazione
+  }
+  {Soluzioni e reagenti:}
+  {
+  \item Cellule \texttt{HEK293T} trasfettate con\\ \texttt{pcDNA.3-HA} o \texttt{pcDNA.3-$\beta$Catenin-HA}
+  \item Terreno di crescita completo\\ (DMEM + 10\% FBS + Pen/Strep 1X)
+  \item PBS 1X (senza Ca$^{2+}$ e Mg$^{2+}$)
+  \item Soluzione di tripsina-EDTA
+  }
+\vspace{1em}
+\begin{insightBox}
+  \textbf{Insight:} Il \textbf{microscopio invertito} è progettato con la sorgente luminosa e gli obiettivi posti sotto il piano di osservazione. Questo consente di osservare comodamente cellule in coltura in piastre o contenitori in plastica, dove le cellule aderiscono al fondo. Rispetto ai microscopi convenzionali, facilita la visione di cellule vive senza la necessità di campioni sottili.
+\end{insightBox}
+\begin{percheBox}
+  \textbf{Perché 5\% CO$_2$?}
+
+  L’incubatore a 5\% CO$_2$ ricrea le condizioni fisiologiche tipiche dell’ambiente cellulare. Il CO$_2$ si dissolve nel terreno di coltura, contribuendo a mantenere il \textbf{pH stabile e ottimale} (circa 7.4). Senza questa atmosfera controllata, il pH tenderebbe a salire o scendere, compromettendo la vitalità e la funzionalità delle cellule in coltura.
+\end{percheBox}
+
+\begin{insightBox}
+  \textbf{Insight:} Ogni componente del mantenimento delle cellule ha un ruolo fondamentale:
+  \begin{itemize}\footnotesize
+    \item \textbf{Terreno di crescita completo (DMEM + 10\% FBS + Pen/Strep 1X)}: fornisce i nutrienti (glucosio, amminoacidi, sali) e i fattori di crescita (FBS) essenziali per la sopravvivenza e la proliferazione cellulare. La Penicillina/Streptomicina previene contaminazioni batteriche.
+    \item \textbf{PBS 1X (senza Ca$^{2+}$ e Mg$^{2+}$)}: tampone isotonico usato per lavare le cellule e rimuovere residui di terreno o sieri. L’assenza di ioni Ca$^{2+}$ e Mg$^{2+}$ facilita il distacco cellulare perché questi ioni stabilizzano le giunzioni cellulari.
+    \item \textbf{Soluzione di tripsina-EDTA}: enzima proteolitico che rompe le connessioni tra le cellule e la matrice di adesione, consentendo di staccarle e passare a un nuovo contenitore (splitting).
+  \end{itemize}
+\end{insightBox}
+
+\begin{insightBox}
+  \textbf{Insight:} La tripsina non è selettiva per le proteine di adesione, ma l’aggiunta dell’EDTA le rende i primi bersagli dell’enzima.\\
+  L’EDTA chela (lega) gli ioni Ca$^{2+}$ e Mg$^{2+}$, essenziali per la stabilità delle proteine di adesione (come integrine e cadherine). Senza questi ioni, le proteine perdono la loro integrità strutturale e si indeboliscono.\\
+  Questo le rende \textbf{più vulnerabili} all’azione proteolitica della tripsina, che quindi le taglia per prime, facilitando il distacco delle cellule dal substrato.
+\end{insightBox}
+
+
+\newpage
+
+
+\subsection{Procedura}
+\begin{enumerate}\footnotesize
+  \item Disinfettare l’area della cappa a flusso laminare con etanolo al 70\% e siglare i tubi necessari.
+  \item Osservare le cellule al microscopio invertito per controllare la morfologia e la confluenza.
+  \item Se la confluenza è superiore all’80-90\%, procedere con lo splitting:
+  \begin{itemize}
+    \item Rimuovere il terreno di crescita con una pipetta sterile.
+    \item Aggiungere 3 mL di PBS 1X e lavare delicatamente le cellule per 10 secondi.
+    \item Aggiungere 1 mL di tripsina-EDTA e incubare 6 minuti a temperatura ambiente.
+    \item Osservare la distaccazione delle cellule al microscopio.
+    \item Aggiungere 4 mL di DMEM completo per neutralizzare la tripsina.
+    \item Risospendere la sospensione cellulare con pipetta sierologica, evitando aggregati.
+    \item Calcolare e prelevare il volume necessario per una diluizione 1:10, lasciando questo volume nella piastra.
+    \item Trasferire il resto della sospensione cellulare in un tubo Falcon da 15 mL.
+    \item Aggiungere 5 mL di DMEM completo alla piastra e mescolare delicatamente.
+    \item Incubare le piastre a 37~$^\circ$C con 5\% CO$_2$.
+  \end{itemize}
+  \item Procedere con la raccolta delle cellule (Fase II):
+  \begin{itemize}
+    \item Etichettare 3 tubi Eppendorf e trasferirvi 1.3 mL di sospensione cellulare per tubo.
+    \item Centrifugare a 4~$^\circ$C, 1000 rpm per 5 minuti.
+    \item Rimuovere il surnatante e risospendere il pellet in 1 mL di PBS 1X.
+    \item Ripetere centrifugazione e lavaggio altre due volte.
+    \item Rimuovere accuratamente il surnatante e mantenere i pellet in ghiaccio.
+    \item Conservare i pellet a -80~$^\circ$C per successive estrazioni proteiche.
+  \end{itemize}
+\end{enumerate}
+
+\subsection{Conclusioni}
+Questa procedura garantisce la vitalità e la purezza delle cellule \textit{HEK293T} trasfettate, preparando il materiale biologico necessario per futuri esperimenti di lisi cellulare e analisi proteica. Il rispetto delle condizioni sterili e dei passaggi di lavaggio e splitting è fondamentale per mantenere l’affidabilità delle colture e prevenire contaminazioni.
+
+\newpage
