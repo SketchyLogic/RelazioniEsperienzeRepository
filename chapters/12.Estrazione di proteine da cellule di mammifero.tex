@@ -1,0 +1,126 @@
+\normalsize
+\section {Estrazione di proteine da cellule di mammifero}
+
+\subsection{Introduzione}
+L’estrazione delle proteine da cellule di mammifero è un passaggio fondamentale per lo studio dell’espressione e della regolazione proteica.
+In questa esperienza, partendo dai pellet cellulari ottenuti dall’esperienza precedente, le cellule \texttt{HEK293T} vengono lisate per ottenere una frazione di proteine citosoliche.
+Il lisato proteico sarà poi utilizzato per preparare campioni destinati alla successiva analisi tramite \textbf{Western blot} (SDS-PAGE seguito da immunoblotting).
+A differenza di un’estrazione totale delle proteine (che includerebbe anche le frazioni nucleari e di membrana), questa procedura si focalizza sulla frazione citosolica.
+Un aspetto importante dell’esperienza è l’uso di un \textbf{buffer di lisi arricchito con inibitori di proteasi e fosfatasi}, per preservare l’integrità delle proteine e la loro fosforilazione durante l’estrazione.
+
+\begin{insightBox}
+	\textbf{Insight:} La differenza tra un’estrazione “citoplasmatica” e una “totale” delle proteine sta nella forza del detergente usato e nelle condizioni del buffer.
+	In questa esperienza si usa un \textbf{buffer delicato con Triton} che rompe solo la membrana plasmatica, rilasciando le \textbf{proteine citosoliche}.
+	Le strutture intracellulari (nucleo, mitocondri, reticolo endoplasmatico) restano intatte, conservando le rispettive proteine al loro interno.
+	Se invece volessimo fare un’estrazione “totale”, servirebbero detergenti più forti (come SDS o NP-40) o l’uso di ultrasuoni per rompere anche questi compartimenti.
+\end{insightBox}
+
+\begin{percheBox}
+	\textbf{Perché è importante inibire le fosfatasi:}
+	Le fosfatasi rimuovono i gruppi fosfato dalle proteine, alterando il loro stato di fosforilazione.
+	Poiché la fosforilazione regola l’attività, la stabilità e le interazioni delle proteine, impedirne la rimozione durante l’estrazione è essenziale per \textbf{preservare la forma funzionale e fisiologica delle proteine} come avviene in vivo.
+\end{percheBox}
+
+
+\subsection{Obiettivo}
+L’obiettivo dell’esperienza è ottenere lisati proteici citosolici dalle cellule \texttt{HEK293T}, mantenendo la loro integrità e preparare i campioni per le successive analisi di Western blot.
+
+\subsection{Strumentazione}
+\begin{itemize}
+	\item Cappa a flusso laminare
+	\item Micropipette e puntali sterili
+	\item Vortex
+	\item Centrifuga refrigerata (4~$^\circ$C)
+	\item Ghiaccio
+\end{itemize}
+
+\subsection{Soluzioni e reagenti}\footnotesize{
+  \begin{itemize}
+	\item \textbf{TRITON buffer}: buffer di lisi per rompere la membrana cellulare e liberare le proteine.
+	\item \textbf{PP inhibitors}: mix di inibitori di proteasi e fosfatasi per prevenire la degradazione delle proteine durante l’estrazione.
+	\item \textbf{LLS 5X} (\textit{Laemmli Loading Sample Buffer} 5X): tampone di caricamento per la corsa elettroforetica.
+	\item \textbf{Pellet cellulari (campioni e controllo negativo)} costituiti da:
+	\begin{itemize}\footnotesize
+		\item pellets di cellule trasfettate con \texttt{pcDNA3-$\beta$Catenin-HA} (βCat-HA)
+		\item controllo negativo (CTRL neg) con \texttt{pcDNA3} vuoto
+	\end{itemize}
+
+\end{itemize}
+}
+
+
+\begin{percheBox}
+	\textbf{Perché si usa il Laemmli Loading Sample Buffer (LLS 5X):}
+
+	Questo tampone di caricamento è essenziale per la preparazione dei campioni proteici destinati alla corsa su gel SDS-PAGE (vedi esperienze successive).
+	Denatura le proteine, rompendo le strutture tridimensionali e uniformando la carica negativa grazie all’SDS.
+	Il glicerolo aumenta la densità del campione, facilitando il caricamento nei pozzetti del gel.
+	Infine, il bromofenolo blu permette di monitorare visivamente la corsa elettroforetica.
+\end{percheBox}
+\newpage
+
+\begin{criticitaBox}
+  \textbf{Criticità:} È fondamentale mantenere il campione di cellule lisate a temperature prossime o sotto lo zero durante l’intero processo, perché la bassa temperatura rallenta l’azione delle proteasi e delle fosfatasi cellulari.  
+  Questi enzimi, se attivi, potrebbero degradare le proteine o rimuovere modifiche post-traduzionali importanti, come la fosforilazione, compromettendo così la qualità delle analisi successive.
+\end{criticitaBox}
+\vspace{1em}
+\subsection{Procedura}
+
+
+\begin{enumerate}\footnotesize
+\item \textbf{Preparazione dei campioni}
+\begin{itemize}
+\item Recuperare 4 campioni contenenti i pellet cellulari:
+\begin{itemize}
+\item 1 tubo contenente cellule di controllo negativo (campione trasfettato con plasmide vuoto).
+\item 3 tubi contenenti cellule \texttt{HEK293T} trasfettate con \texttt{pcDNA3-$\beta$Catenin-HA} (campioni 2-4).
+\end{itemize}
+\end{itemize}
+
+\item \textbf{Preparazione del buffer di lisi TRITON}
+\begin{itemize}
+\item Aggiungere 6~$\mu$L della soluzione di inibitori PP (mix di inibitori di proteasi e fosfatasi) in un tubo contenente 1~mL di TRITON buffer.
+\end{itemize}
+
+\item \textbf{Lisi delle cellule}
+\begin{itemize}
+\item Aggiungere 60~$\mu$L del TRITON buffer arricchito con inibitori in ciascun tubo contenente i pellet cellulari.
+\item Risospendere accuratamente i pellet usando una pipetta P200, evitando la formazione di bolle.
+\item \textit{(Accorgimento: Per evitare bolle, settare la pipetta a 50~$\mu$L e operare lentamente!)}
+\item Vortexare per pochi secondi, poi lasciare i tubi in ghiaccio per 10 minuti.
+\item Ripetere il passaggio di vortex e ghiaccio per garantire una completa lisi delle cellule.
+\end{itemize}
+
+\item \textbf{Centrifugazione}
+\begin{itemize}
+\item Centrifugare i campioni alla massima velocità per 20 minuti a 4~$^\circ$C.
+\item Dopo la centrifugazione, i pellet con le frazioni insolubili (membrane, organelli) verranno scartati.
+\end{itemize}
+
+\item \textbf{Raccolta del surnatante (lisato citosolico)}
+\begin{itemize}
+\item Prelevare con attenzione il surnatante contenente le proteine citosoliche e trasferirlo in nuovi tubi Eppendorf etichettati come segue:
+\begin{itemize}
+\item \texttt{CTRL neg} (Controllo negativo).
+\item \texttt{$\beta$Cat-HA} (campioni 2-4).
+\end{itemize}
+\item Questi saranno i \textbf{tubi per la raccolta del lisato proteico}.
+\end{itemize}
+
+\item \textbf{Preparazione del campione per la corsa elettroforetica (Western blot)}
+\begin{itemize}
+\item Etichettare altri 4 tubi Eppendorf (\texttt{CTRL neg Wb} e \texttt{$\beta$Cat-HA Wb} per i campioni 2-4).
+\item In ciascun tubo, aggiungere 20~$\mu$L del lisato proteico (prelevato dal passo precedente).
+\item Aggiungere 5~$\mu$L di \texttt{LLS 5X buffer} (\textit{Laemmli Loading Sample Buffer 5X}) in ciascun tubo.
+\item Mescolare bene per ottenere un volume finale di 25~$\mu$L.
+\item Centrifugare per 30 secondi alla massima velocità.
+\item Questi campioni sono pronti per essere analizzati con la tecnica Western Blot
+\end{itemize}
+
+\item \textbf{Conservazione}
+\begin{itemize}
+\item Conservare i campioni a -20~$^\circ$C fino al momento dell’uso.
+\end{itemize}
+\end{enumerate}
+
+\newpage

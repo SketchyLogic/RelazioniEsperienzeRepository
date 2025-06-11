@@ -81,8 +81,13 @@
 \contentsline {subsection}{\numberline {11.7}Procedura: Preparazione terreno di coltura completo (5mL)}{30}{}%
 \contentsline {subsection}{\numberline {11.8}Procedura}{30}{}%
 \contentsline {subsection}{\numberline {11.9}Conclusioni}{30}{}%
-\contentsline {subsection}{\numberline {11.10}Mantenimento di colture cellulari di mammifero}{31}{}%
-\contentsline {subsection}{\numberline {11.11}Estrazione di proteine da cellule di mammifero}{31}{}%
-\contentsline {subsection}{\numberline {11.12}Elettroforesi SDS-PAGE seguito da Western Blot}{31}{}%
-\contentsline {subsection}{\numberline {11.13}Cromatografia di affinità}{31}{}%
-\contentsline {subsection}{\numberline {11.14}ICC (Immunocitochimica)}{31}{}%
+\contentsline {section}{\numberline {12}Estrazione di proteine da cellule di mammifero}{31}{}%
+\contentsline {subsection}{\numberline {12.1}Introduzione}{31}{}%
+\contentsline {subsection}{\numberline {12.2}Obiettivo}{31}{}%
+\contentsline {subsection}{\numberline {12.3}Strumentazione}{31}{}%
+\contentsline {subsection}{\numberline {12.4}Soluzioni e reagenti}{31}{}%
+\contentsline {subsection}{\numberline {12.5}Procedura}{32}{}%
+\contentsline {subsection}{\numberline {12.6}Estrazione di proteine da cellule di mammifero}{33}{}%
+\contentsline {subsection}{\numberline {12.7}Elettroforesi SDS-PAGE seguito da Western Blot}{33}{}%
+\contentsline {subsection}{\numberline {12.8}Cromatografia di affinità}{33}{}%
+\contentsline {subsection}{\numberline {12.9}ICC (Immunocitochimica)}{33}{}%
