@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1749646684.347 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749646686.25139 0
+["pdflatex"] 1749646988.60838 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749646990.44772 0
   "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749624135 2442 1c6183a8ce3e481b99a9f00f6a7d39e1 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1749158061 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1749158899 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -209,7 +209,7 @@
   "chapters/1.Miniprep - Preparazione di DNA plasmidico tramite lisi alcalina.tex" 1749221934 11349 a74882533b0c7b893b17ea1c52374b31 ""
   "chapters/10.Colony PCR.tex" 1749472639 3622 1991670324e5684003fd1d03be004d1e ""
   "chapters/11.Mantenimento di colture cellulari di mammifero.tex" 1749624695 11486 9161744dffba172c89601f52a58c8f78 ""
-  "chapters/12.Estrazione di proteine da cellule di mammifero.tex" 1749646683 7154 1e5f12e6e0f42d17c626b83bcc3b94a3 ""
+  "chapters/12.Estrazione di proteine da cellule di mammifero.tex" 1749646987 7173 dfa9961506a5205e8ac942c4118ac32d ""
   "chapters/2.Estrazione dell RNA totale con TRIzol e Quantificazione.tex" 1749245728 9606 bf1622cf546acb8214153a619ad40d6f ""
   "chapters/3.Spettrometria di un campione di RNA totale.tex" 1749248697 3222 07b97052cfebf6a4e7dce35844d53e61 ""
   "chapters/4.Restrizione del DNA ed analisi elettroforetica.tex" 1749322505 12560 741704f53500b3487e7039aee9aec31f ""
@@ -218,10 +218,10 @@
   "chapters/7.Preparazione di cellule competenti.tex" 1749422005 7589 4f6db8f3a4a5f35c27d7bcdc735158ad ""
   "chapters/8.Preparazione piastre per trasformazione batterica.tex" 1749433744 6563 b3733a566e6f04731f8083dee91e8301 ""
   "chapters/9.Trasformazione batterica.tex" 1749438825 6515 828fb90bf7ef5b4cdc14829a4b26371d ""
-  "chapters/relazioni rimanenti.tex" 1749623659 1726 76b33ff004f607dad23fe3a5118f9e88 ""
-  "main.aux" 1749646686 11202 f544e414106fa02e0a3d7654508b5c9d "pdflatex"
+  "chapters/relazioni rimanenti.tex" 1749646763 1302 d14e4bcafaf76e0717e2debe201777c9 ""
+  "main.aux" 1749646990 11061 7cd0db08ef2f66eb36836150c6222a74 "pdflatex"
   "main.tex" 1749624135 2442 1c6183a8ce3e481b99a9f00f6a7d39e1 ""
-  "main.toc" 1749646686 7219 b41f207c144b7cbc9e64b19ed8853234 "pdflatex"
+  "main.toc" 1749646990 7119 0111b531100828a456bf06f050249dee "pdflatex"
   "style/custom.sty" 1749419131 1448 353ec0dd4b4bd1bc121fb14050388ce2 ""
   (generated)
   "main.aux"
