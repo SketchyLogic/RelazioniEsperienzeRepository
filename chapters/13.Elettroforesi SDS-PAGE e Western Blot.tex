@@ -1,0 +1,257 @@
+\section {Elettroforesi SDS-PAGE e Western Blot}
+
+\subsection{Introduzione}
+L'elettroforesi SDS-PAGE è una tecnica fondamentale per separare le proteine in base al loro peso molecolare. L'aggiunta dell'SDS denatura le proteine e conferisce loro una carica negativa proporzionale alla massa. Una volta separate, le proteine vengono trasferite su una membrana tramite il western blot, che permette di rilevare una specifica proteina grazie all’utilizzo di anticorpi.
+
+\subsubsection{SDS-PAGE (Sodium Dodecyl Sulphate - PolyAcrylamide Gel Electrophoresis)}
+
+\paragraph{Principio della tecnica}
+L'elettroforesi su gel di poliacrilammide in presenza di SDS (SDS-PAGE) è una tecnica utilizzata per separare le proteine in base al loro peso molecolare. In presenza di un campo elettrico, le proteine migrano attraverso una matrice porosa (gel di poliacrilammide), permettendo una separazione efficiente delle diverse specie proteiche.
+
+\paragraph{Ruolo dell'SDS e del BME}
+Il tampone di caricamento contiene componenti che permettono la denaturazione delle proteine. Le due principali molecole coinvolte sono:
+
+\begin{itemize}
+  \item \textbf{SDS (Sodium Dodecyl Sulfate):} è un detergente anionico che denatura le proteine rompendo le interazioni non covalenti responsabili della struttura secondaria e terziaria. Inoltre, si lega uniformemente alle catene polipeptidiche conferendo loro una carica negativa proporzionale alla massa, permettendo così una migrazione nel gel dipendente unicamente dal peso molecolare.
+  
+  \item \textbf{BME (β-mercaptoetanolo):} è un agente riducente che rompe i ponti disolfuro tra e all'interno delle catene polipeptidiche, facilitando l’ulteriore denaturazione. Il suo utilizzo è opzionale e viene impiegato quando si desidera separare completamente le subunità proteiche. In alcuni casi, come nelle analisi non riducenti, il BME può essere omesso per mantenere l'integrità dei legami disolfuro e preservare meglio la struttura quaternaria.
+\end{itemize}
+
+
+
+\paragraph{Struttura del gel: stacking e resolving}
+Il sistema SDS-PAGE è un sistema a gel composto da due strati con proprietà distinte:
+\begin{itemize}
+  \item \textbf{Stacking gel:} ha una bassa concentrazione di acrilammide (tipicamente 4\%) e un pH più basso (6.8). La sua funzione è quella di concentrare le proteine in una banda sottile prima dell’ingresso nel gel di separazione
+  \item \textbf{Running gel (o resolving gel):} ha una maggiore concentrazione di acrilammide (tipicamente tra 8\% e 15\%) e un pH più alto (8.8). In questa sezione avviene la vera separazione delle proteine in base alla loro dimensione.
+\end{itemize}
+
+\begin{percheBox}
+	\textbf{Perché il pH è basso nello stacking gel:}  
+	Il pH 6.8 fa sì che la glicina del tampone sia in forma neutra e migri lentamente. Questo permette alle proteine di essere temporaneamente “compresse” tra ioni veloci (Cl$^-$) e lenti (glicina), concentrandosi in una banda sottile prima della separazione vera e propria.
+\end{percheBox}
+
+
+\begin{insightBox}
+	\textbf{Insight:} La concentrazione di acrilammide nel resolving gel è un parametro critico.  
+	Gel a bassa percentuale (es. 8\%) sono ideali per proteine di grandi dimensioni, che migrano lentamente e richiedono una matrice più porosa. Al contrario, gel più densi (12–15\%) sono più adatti a proteine piccole, poiché offrono maggiore resistenza alla migrazione, migliorandone la separazione. La scelta corretta della percentuale è quindi fondamentale per ottenere una separazione ottimale.
+\end{insightBox}
+
+\paragraph{Marker di peso molecolare}
+Per stimare la massa delle proteine campione, viene caricato nel gel un \textit{marker di peso molecolare}, ovvero una miscela di proteine standard con pesi molecolari noti. Confrontando la migrazione delle bande del campione con quelle del marker, è possibile determinare il peso molecolare apparente delle proteine analizzate.
+
+
+\subsubsection{Western Blot}
+
+\paragraph{Principio della tecnica}
+Il Western Blot è una tecnica immunochimica che consente l’identificazione specifica di una proteina all’interno di un miscuglio complesso, dopo separazione tramite SDS-PAGE. Combina la risoluzione elettroforetica con il riconoscimento altamente selettivo da parte di anticorpi.
+
+\paragraph{Trasferimento su membrana}
+Dopo la corsa elettroforetica, le proteine separate nel gel vengono trasferite su una membrana (PVDF o nitrocellulosa) mediante applicazione di un campo elettrico perpendicolare al gel. Questo passaggio mantiene la disposizione delle proteine, rendendole accessibili all’interazione con anticorpi. Il corretto trasferimento può essere verificato osservando il marker o mediante colorazione reversibile (es. Red Ponceau).
+
+\paragraph{Blocco e incubazione con anticorpi}
+Per evitare legami aspecifici, la membrana viene incubata con una soluzione di blocco (es. MILK 5\% in PBST) che satura i siti liberi. Successivamente, si aggiunge un \textbf{anticorpo primario} specifico per la proteina d'interesse, seguito da un \textbf{anticorpo secondario} che riconosce il primario ed è coniugato a un enzima (es. HRP, perossidasi).
+
+\paragraph{Rilevazione del segnale}
+Il segnale viene sviluppato tramite reazione chemiluminescente: il substrato dell’enzima produce luce quando trasformato. Questa luce viene rilevata tramite una camera CCD (es. Chemidoc). L’intensità delle bande rilevate è proporzionale alla quantità di proteina presente nel campione.
+
+\begin{insightBox}
+	\textbf{Insight:} La \textbf{camera CCD} (Charge-Coupled Device) è un sensore in grado di rilevare anche luci molto deboli, come quella prodotta nella reazione di chemiluminescenza del Western Blot. 
+	Trasduce la luce in un segnale elettrico.
+\end{insightBox}
+
+\subsection{Obiettivo}
+Rilevare l'espressione di una proteina specifica (es. Beta-Catenina-HA), endogena o esogena, e valutarne i livelli di espressione o modificazioni post-traduzionali, tramite SDS-PAGE seguita da Western Blot.
+
+\subsection{Fasi dell’esperimento}
+
+L’esperimento si articola in tre fasi principali, ciascuna con un ruolo specifico nell’identificazione della proteina d’interesse:
+
+\begin{itemize}
+  \item \textbf{Fase I – Separazione (SDS-PAGE):}  
+  Le proteine vengono denaturate, linearizzate e caricate su un gel di poliacrilammide. L’elettroforesi separa le proteine in base al loro peso molecolare, generando un profilo ordinato per dimensione.
+
+  \item \textbf{Fase II – Trasferimento e immunodetection (Western Blot):}  
+  Le proteine separate vengono trasferite su una membrana PVDF. La membrana viene bloccata per prevenire legami aspecifici, poi incubata con anticorpi specifici: il primario riconosce la proteina target, il secondario permette la rilevazione.
+
+  \item \textbf{Fase III – Rilevamento e analisi:}  
+  Il segnale generato dall’enzima coniugato all’anticorpo secondario produce luce (chemiluminescenza), che viene rilevata da una camera CCD. Le bande visibili sulla membrana indicano la presenza e l’abbondanza relativa della proteina di interesse.
+\end{itemize}
+
+\newpage
+\subsection{Strumentazione}
+\begin{itemize}
+  \item Sistema per elettroforesi verticale
+  \item Alimentatore per elettroforesi
+  \item Termoblocco a 95°C
+  \item Sistema per trasferimento proteine (blotting apparatus)
+  \item CHEMIDOC per rilevamento chemiluminescenza
+  \item Centrifuga da banco
+\end{itemize}
+
+\subsection{Soluzioni e reagenti}
+
+\paragraph{Fase I – SDS-PAGE (preparazione gel e corsa elettroforetica)}
+\begin{itemize}
+  \item Soluzione di acrilammide al 40\% (disponibile in commercio)
+  \item Tampone Tris 1.5 M pH 8.8 (per resolving gel)
+  \item Tampone Tris 1.0 M pH 6.8 (per stacking gel)
+  \item SDS al 10\%
+  \item APS 10\% (ammoniopersolfato) e TEMED (Tetramethylethylenediamine) – per la polimerizzazione
+  \item Tampone di corsa (Running buffer): 25 mM Tris, 192 mM glicina, 0.1\% SDS, pH 8.3
+\end{itemize}
+
+\paragraph{Fase II – Trasferimento e immunodetection (Western Blot)}
+\begin{itemize}
+  \item Tampone di trasferimento: 20 mM Tris, 152 mM glicina, 10\% isopropanolo
+  \item PBS pH 7.2 10X: 1.37 M NaCl, 27 mM KCl, 15 mM KH\textsubscript{2}PO\textsubscript{4}, 81 mM Na\textsubscript{2}HPO\textsubscript{4}
+  \item Buffer di lavaggio: PBST 0.1\% (PBS + Tween 20)
+  \item Soluzione di blocco: latte scremato 5\% in PBST 0.1\%
+  \item Anticorpi primario (anti-HA) e secondario (coniugato con HRP)
+\end{itemize}
+
+\paragraph{Fase III – Rilevamento del segnale}
+\begin{itemize}
+  \item Soluzione di sviluppo chemiluminescente: reagente A + B (da miscelare al momento in rapporto 1:1)
+  \item Soluzione Red Ponceau (opzionale, per verifica visiva del trasferimento)
+\end{itemize}
+
+\begin{insightBox}
+	\textbf{Insight:} I reagenti A e B sono componenti di un sistema chemiluminescente utilizzato per rilevare le proteine nel Western Blot. 
+	Il \textbf{reagente A} contiene un substrato come il luminolo, mentre il \textbf{reagente B} include potenziatori della reazione (es. perossido di idrogeno). 
+	Quando miscelati, questi reagenti generano una reazione catalizzata dalla perossidasi (HRP) coniugata all’anticorpo secondario, producendo \textbf{luce visibile}. 
+	Questa luce viene poi catturata da una telecamera CCD, rendendo visibile la banda della proteina di interesse. 
+	La miscela va preparata al momento, perché la reazione si attiva subito ed è instabile nel tempo. 
+	
+	\vspace{0.5em}
+  Il segnale è massimo entro i primi 5 minuti e tende a decadere rapidamente. È consigliabile rilevare l’immagine \textbf{subito dopo l’incubazione}, poiché dopo 15–30 minuti la luminescenza può risultare significativamente attenuata.
+\end{insightBox}
+
+
+
+\newpage
+
+\subsection{Procedura: Corsa elettroforetica (Fase I)}
+\begin{enumerate}
+\item \textbf{Preparazione del gel}
+  \begin{itemize}
+    \item Preparare il \textit{running gel} (8\%, volume finale 10 mL) mescolando:
+      \begin{itemize}
+        \item 5.3 mL di acqua
+        \item 2 mL di acrilammide
+        \item 2.5 mL di Tris-HCl 1.5 M pH 8.8
+        \item 0.1 mL di SDS 10\%
+        \item 0.1 mL di APS 10\%
+        \item 0.005 mL di TEMED
+      \end{itemize}
+    \item Versare circa 5 mL di running gel tra le lastre e ricoprire con 1 mL di isopropanolo.
+    \item Attendere la polimerizzazione (15–20 minuti), poi rimuovere l’isopropanolo con carta da banco senza toccare il gel.
+    \item Preparare lo \textit{stacking gel} (volume finale 5 mL) mescolando:
+      \begin{itemize}
+        \item 1.85 mL di acqua
+        \item 0.55 mL di acrilammide
+        \item 2.5 mL di Tris-HCl 1 M pH 6.8
+        \item 0.05 mL di SDS 10\%
+        \item 0.05 mL di APS 10\%
+        \item 0.005 mL di TEMED
+      \end{itemize}
+    \item Versare 1–2 mL di stacking gel sopra il running gel polimerizzato e inserire il pettinino.
+    \item Attendere la completa polimerizzazione del stacking gel (10–15 minuti).
+  \end{itemize}
+
+
+\item \textbf{Preparazione campioni}
+  \begin{itemize}
+    \item Prelevare i campioni precedentemente preparati (estratto proteico + Laemmli buffer).
+    \item Bollire i campioni a 95°C per 5 minuti (usando il termoblocco acceso durante la polimerizzazione).
+    \item Centrifugare per 10 secondi alla massima velocità.
+  \end{itemize}
+
+\item \textbf{Corsa elettroforetica}
+  \begin{itemize}
+    \item Caricare il gel da sinistra verso destra nel seguente ordine:
+      \begin{itemize}
+        \item Standard per le proteine (Marker)
+        \item 12~µL di un campione controllo (EV)
+        \item 12~µL di un campione Beta-Catenin-HA (a scelta tra quelli preparati)
+        \item 12~µL di un campione Beta-Catenin-HA (controllo positivo fornito)
+      \end{itemize}
+    \item Far correre il gel a 100V per circa 1.5 ore.
+  \end{itemize}
+\end{enumerate}
+
+\subsection{Procedura: Western Blot (Fase II)}
+\begin{enumerate}
+\item \textbf{Western blot}
+    \begin{itemize}
+      \item Immergere il gel nel tampone di trasferimento.
+      \begin{enumerate}
+        \item Polo positivo
+        \item Carta da filtro Whatman 3 mm
+        \item Membrana (PVDF o nitrocellulosa)
+        \item Gel (dalla corsa SDS-PAGE)
+        \item Carta da filtro Whatman 3 mm
+        \item Polo negativo
+      \end{enumerate}
+      \item Avviare il trasferimento a 25V, 1A per 15 minuti.
+      \item Verificare la buona riuscita del trasferimento sulla membrana PVDF (la coloroazione 'Red Ponceau' può aiutare in questo step)
+    \end{itemize}
+
+
+
+  
+\item \footnotesize\textbf{Blocco e immunodetection}
+  \begin{itemize}
+    \item Incubare la membrana per 30 minuti a temperatura ambiente in agitazione lenta con \textbf{MILK 5\% in PBST 0.1\%} (soluzione di blocco), per saturare i siti aspecifici della membrana.
+    \item Incubare per 1.5 ore a temperatura ambiente con l’\textbf{anticorpo primario}, diluito nella soluzione di blocco (su parafilm).
+    \item Lavare la membrana \textbf{3 volte per 5 minuti} a temperatura ambiente, in agitazione, con il \textbf{buffer di lavaggio (PBST 0.1\%)} per rimuovere l’anticorpo primario non legato.
+    \item Incubare per 1 ora a temperatura ambiente con l’\textbf{anticorpo secondario}, anch’esso diluito nella soluzione di blocco (su parafilm).
+    \item Lavare nuovamente la membrana \textbf{3 volte per 5 minuti} a temperatura ambiente in agitazione con PBST 0.1\%.
+  \end{itemize}
+\end{enumerate}
+
+    \begin{insightBox}
+	\textbf{Insight:} La \textbf{soluzione Red Ponceau} è una colorazione reversibile che permette di verificare visivamente il corretto trasferimento delle proteine sulla membrana. 
+	Viene applicata dopo il trasferimento e colorerà temporaneamente tutte le proteine presenti, rendendo visibili le bande. 
+	Può essere facilmente rimossa con lavaggi in acqua o PBS, senza interferire con i successivi passaggi di blocco o immunodetection.
+\end{insightBox}
+
+\begin{percheBox}
+	\textbf{Perché si usa MILK 5\% come soluzione di blocco:}  
+	Il latte scremato contiene proteine (soprattutto caseina) che si legano ai siti liberi sulla membrana PVDF, impedendo che gli anticorpi si leghino in modo aspecifico. 
+	Diluendo il latte al 5\% in PBST 0.1\%, si crea una barriera proteica che \textbf{riduce il background} e garantisce che gli anticorpi si leghino solo alla proteina di interesse, migliorando la qualità e la nitidezza del segnale nel Western Blot.
+\end{percheBox}
+
+\begin{insightBox}
+	\textbf{Insight:} Nel Western Blot si usano due anticorpi per identificare e visualizzare la proteina di interesse:
+	\begin{itemize}
+		\item L’\textbf{anticorpo primario} si lega in modo specifico alla proteina target.
+		\item L’\textbf{anticorpo secondario} si lega all’anticorpo primario.
+		\item L’anticorpo secondario è coniugato a un enzima (come HRP) che, con i reagenti A e B, produce \textbf{luce visibile}.
+		\item La luce emessa consente sia di \textbf{vedere la proteina} (presenza/assenza), sia di \textbf{valutarne la quantità} in base all’intensità del segnale.
+	\end{itemize}
+\end{insightBox}
+
+\begin{insightBox}
+	\textbf{Insight:} La \textbf{soluzione di blocco} (latte 5\% in PBST) serve a coprire i siti liberi sulla membrana per evitare che gli anticorpi si leghino in modo aspecifico.  
+	Questo riduce il background e rende il segnale più pulito e specifico.
+\end{insightBox}
+
+
+
+\subsection{Procedura: Rilevamento del segnale (Fase III)}
+\begin{enumerate}  
+  \item \textbf{Rilevamento del segnale}
+    \begin{itemize}
+      \item Preparare soluzione di sviluppo (Reagente A + B, 1:1).
+      \item Incubare la membrana 5 min.
+      \item Acquisire l'immagine mediante CHEMIDOC.
+    \end{itemize}
+  
+  \item \textbf{Analisi dei dati}
+    \begin{itemize}
+      \item Analizzare le bande visibili e quantificare l’intensità tramite software dedicato.
+      \item Normalizzare rispetto al controllo interno, se presente.
+    \end{itemize}
+\end{enumerate}
+\newpage

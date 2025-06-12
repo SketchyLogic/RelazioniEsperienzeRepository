@@ -326,6 +326,10 @@ INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT ./chapters/12.Estrazione di proteine da cellule di mammifero.tex
 INPUT ./chapters/12.Estrazione di proteine da cellule di mammifero.tex
 INPUT chapters/12.Estrazione di proteine da cellule di mammifero.tex
+INPUT ./chapters/13.Elettroforesi SDS-PAGE e Western Blot.tex
+INPUT ./chapters/13.Elettroforesi SDS-PAGE e Western Blot.tex
+INPUT chapters/13.Elettroforesi SDS-PAGE e Western Blot.tex
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cbfonts/grxn1000.tfm
 INPUT ./chapters/relazioni rimanenti.tex
 INPUT ./chapters/relazioni rimanenti.tex
 INPUT chapters/relazioni rimanenti.tex
@@ -360,6 +364,7 @@ INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/cbfonts/grmi1000.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/cbfonts/grmn0800.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/cbfonts/grmn0900.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/cbfonts/grmn1000.pfb
+INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/cbfonts/grxn1000.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb
