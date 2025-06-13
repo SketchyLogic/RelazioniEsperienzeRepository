@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1749785314.72907 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749785316.64089 0
+["pdflatex"] 1749785667.63661 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749785669.63897 0
   "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749785188 2522 d94012bd3fa7ea1dec92d177af7b91f9 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1749158061 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1749158899 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -212,7 +212,7 @@
   "c:/texlive/2025/texmf.cnf" 1749163632 713 e69b156964470283e0530f5060668171 ""
   "chapters/1.Miniprep - Preparazione di DNA plasmidico tramite lisi alcalina.tex" 1749221934 11349 a74882533b0c7b893b17ea1c52374b31 ""
   "chapters/10.Colony PCR.tex" 1749472639 3622 1991670324e5684003fd1d03be004d1e ""
-  "chapters/11.Mantenimento di colture cellulari di mammifero.tex" 1749624695 11486 9161744dffba172c89601f52a58c8f78 ""
+  "chapters/11.Mantenimento di colture cellulari di mammifero.tex" 1749785663 11538 570cb3defca1c1095d7e39e46798bfcf ""
   "chapters/12.Estrazione di proteine da cellule di mammifero.tex" 1749646987 7173 dfa9961506a5205e8ac942c4118ac32d ""
   "chapters/13.Elettroforesi SDS-PAGE e Western Blot.tex" 1749738800 16145 d288d80546f7f4186caebb4c7ec7c9f0 ""
   "chapters/14.Cromatografia di Affinità.tex" 1749785314 8319 a408416e4f3af18c77bb93e35ea0749b ""
@@ -225,9 +225,9 @@
   "chapters/7.Preparazione di cellule competenti.tex" 1749422005 7589 4f6db8f3a4a5f35c27d7bcdc735158ad ""
   "chapters/8.Preparazione piastre per trasformazione batterica.tex" 1749433744 6563 b3733a566e6f04731f8083dee91e8301 ""
   "chapters/9.Trasformazione batterica.tex" 1749438825 6515 828fb90bf7ef5b4cdc14829a4b26371d ""
-  "main.aux" 1749785316 15312 debdaf3bdd84def1458a28a77bab872e "pdflatex"
+  "main.aux" 1749785669 15364 18dfae055cd9d1c9b5b5eb3c49046bcc "pdflatex"
   "main.tex" 1749785188 2522 d94012bd3fa7ea1dec92d177af7b91f9 ""
-  "main.toc" 1749785316 9812 3b157680bb868f41a680ae2eab40529c "pdflatex"
+  "main.toc" 1749785669 9864 8f080404c4dadee69f85be0325cddbad "pdflatex"
   "style/custom.sty" 1749419131 1448 353ec0dd4b4bd1bc121fb14050388ce2 ""
   (generated)
   "main.aux"

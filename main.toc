@@ -79,7 +79,7 @@
 \contentsline {subsection}{\numberline {11.5}Strumenti e soluzioni}{30}{}%
 \contentsline {subsection}{\numberline {11.6}Procedura: Preparazioni}{31}{}%
 \contentsline {subsection}{\numberline {11.7}Procedura: Preparazione terreno di coltura completo (5mL)}{31}{}%
-\contentsline {subsection}{\numberline {11.8}Procedura}{31}{}%
+\contentsline {subsection}{\numberline {11.8}Procedura sperimentale: coltura, splitting e raccolta cellule}{31}{}%
 \contentsline {subsection}{\numberline {11.9}Conclusioni}{31}{}%
 \contentsline {section}{\numberline {12}Estrazione di proteine da cellule di mammifero}{32}{}%
 \contentsline {subsection}{\numberline {12.1}Introduzione}{32}{}%
