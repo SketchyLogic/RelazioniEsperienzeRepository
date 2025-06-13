@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1749720118.1663 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749720120.05305 0
+["pdflatex"] 1749738800.86247 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749738802.75637 0
   "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749689717 2505 5a8280b5b13b5e4a00ce29431a17b5c4 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1749158061 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1749158899 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -212,7 +212,7 @@
   "chapters/10.Colony PCR.tex" 1749472639 3622 1991670324e5684003fd1d03be004d1e ""
   "chapters/11.Mantenimento di colture cellulari di mammifero.tex" 1749624695 11486 9161744dffba172c89601f52a58c8f78 ""
   "chapters/12.Estrazione di proteine da cellule di mammifero.tex" 1749646987 7173 dfa9961506a5205e8ac942c4118ac32d ""
-  "chapters/13.Elettroforesi SDS-PAGE e Western Blot.tex" 1749720117 16132 c4eea6f2e311de9dc39d111402c867d6 ""
+  "chapters/13.Elettroforesi SDS-PAGE e Western Blot.tex" 1749738800 16145 d288d80546f7f4186caebb4c7ec7c9f0 ""
   "chapters/2.Estrazione dell RNA totale con TRIzol e Quantificazione.tex" 1749245728 9606 bf1622cf546acb8214153a619ad40d6f ""
   "chapters/3.Spettrometria di un campione di RNA totale.tex" 1749248697 3222 07b97052cfebf6a4e7dce35844d53e61 ""
   "chapters/4.Restrizione del DNA ed analisi elettroforetica.tex" 1749322505 12560 741704f53500b3487e7039aee9aec31f ""
@@ -222,9 +222,9 @@
   "chapters/8.Preparazione piastre per trasformazione batterica.tex" 1749433744 6563 b3733a566e6f04731f8083dee91e8301 ""
   "chapters/9.Trasformazione batterica.tex" 1749438825 6515 828fb90bf7ef5b4cdc14829a4b26371d ""
   "chapters/relazioni rimanenti.tex" 1749646763 1302 d14e4bcafaf76e0717e2debe201777c9 ""
-  "main.aux" 1749720119 13638 c951e8f42ea998a15471f83641099852 "pdflatex"
+  "main.aux" 1749738802 13638 c951e8f42ea998a15471f83641099852 "pdflatex"
   "main.tex" 1749689717 2505 5a8280b5b13b5e4a00ce29431a17b5c4 ""
-  "main.toc" 1749720119 8794 af76e46693b014250974d48013f92ad9 "pdflatex"
+  "main.toc" 1749738802 8794 af76e46693b014250974d48013f92ad9 "pdflatex"
   "style/custom.sty" 1749419131 1448 353ec0dd4b4bd1bc121fb14050388ce2 ""
   (generated)
   "main.aux"
