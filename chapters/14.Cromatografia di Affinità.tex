@@ -1,0 +1,145 @@
+\section {Cromatografia di Affinità}
+
+\subsection{Introduzione}
+La cromatografia di affinità è un metodo di purificazione proteica altamente selettivo, basato sull’interazione specifica tra la proteina di interesse e una matrice legata a ligandi specifici.  
+A differenza di altre tecniche cromatografiche che separano le molecole in base a carica, dimensione o idrofobicità, questa tecnica sfrutta un legame molecolare mirato, come quello tra un tag 6xHis e ioni metallici Ni\textsuperscript{2+}.  
+Questa esperienza descrive come isolare una proteina ricombinante da un lisato cellulare, ottenendo un campione purificato per analisi successive.
+
+\subsection{Dettagli sulla tecnica}
+
+\paragraph{La matrice}
+La matrice è il supporto solido su cui vengono immobilizzati i ligandi specifici che legano la proteina target.  
+Deve avere le seguenti caratteristiche:
+
+\begin{itemize}
+  \item \textbf{Chimicamente inerte:} non deve reagire con le proteine o i reagenti.
+  \item \textbf{Buone proprietà di flusso:} permette il passaggio dei liquidi senza intasamenti.
+  \item \textbf{Gruppi funzionali attivabili:} necessari per legare stabilmente il ligando alla matrice.
+\end{itemize}
+
+\paragraph{Materiali comuni}
+Le matrici più utilizzate sono a base di agarosio, cellulosa o polimeri sintetici (es. sepharose).  
+Sono spesso modificate per presentare gruppi funzionali come NTA (nitrilotriacetato) per il legame con ioni metallici.
+
+\begin{insightBox}\footnotesize
+	\textbf{Insight:} La resina \textbf{Ni-NTA} (Nickel-Nitrilotriacetato) contiene ioni di Nickel (\textbf{Ni\textsuperscript{2+}}) immobilizzati su una matrice attraverso il chelante NTA.  
+	Gli ioni Ni\textsuperscript{2+} hanno una forte affinità per i gruppi imidazolo delle istidine presenti nel \textbf{tag 6xHis} delle proteine ricombinanti.
+\end{insightBox}
+
+\begin{insightBox}\footnotesize
+	\textbf{Insight:} La \textbf{Sepharose} è spesso utilizzata sotto forma di beads o gel e può essere confezionata in colonne pre-riempite.  
+	Uno dei suoi vantaggi pratici è che può essere riutilizzata più volte, dopo rigenerazione, mantenendo buone prestazioni di legame.
+\end{insightBox}
+
+\begin{percheBox}\footnotesize
+	\textbf{Cos'è uno spacer? Perché è utile?:}  
+	Lo \textbf{spacer} è un breve braccio chimico flessibile che collega il ligando alla superficie della matrice.  
+	Non è sempre presente, ma viene usato quando il ligando rischia di rimanere troppo vicino alla matrice e diventare poco accessibile.
+  
+  \vspace{0.5em}
+	Esempi comuni di spacer includono:
+	\begin{itemize}
+		\item \textbf{Catene di carbonio} (–(CH\textsubscript{2n})–): semplici e stabili.
+		\item \textbf{PEG (polietilenglicole)}: flessibile e idrofilo, riduce l’ingombro sterico.
+	\end{itemize}
+\end{percheBox}
+
+
+
+
+
+\paragraph{Interazioni specifiche}
+La cromatografia di affinità sfrutta interazioni altamente specifiche tra due macromolecole. Esempi comuni includono:
+\begin{itemize}\footnotesize
+  \item \textbf{Antigene – Anticorpo}
+  \item \textbf{Recettore – Ligando}
+  \item \textbf{Enzima – Substrato o inibitore}
+  \item \textbf{Tag 6xHis – ioni Ni\textsuperscript{2+}} (usato in questa esperienza)
+\end{itemize}
+
+\paragraph{Strategie di eluizione}
+Una volta che la proteina target è legata alla matrice tramite il ligando specifico, è necessario staccarla in modo controllato per ottenerla in forma purificata.  
+Questo processo si chiama \textbf{eluizione} e può avvenire principalmente con due approcci:
+
+\begin{itemize}\footnotesize
+  \item \textbf{Variazione di pH o forza ionica:} si altera il pH (es. si abbassa) o si aumenta la concentrazione salina per rompere l’interazione tra la proteina e il ligando. È un metodo efficace ma può denaturare proteine sensibili.
+  
+  \item \textbf{Competizione con un ligando libero (eluizione competitiva):} si aggiunge un analogo solubile del ligando (inibitore competitivo), che compete per il sito di legame e rilascia la proteina target senza alterare drasticamente le condizioni. È usato, ad esempio, con l’\textbf{imidazolo} nella purificazione di proteine 6xHis.
+\end{itemize}
+
+
+\newpage
+\newgeometry{top=1.5cm, bottom=2.5cm}
+\subsection{Obiettivo}
+Isolare una proteina ricombinante dotata di tag \texttt{6xHis} da un lisato cellulare, sfruttando l’interazione tra la coda di istidine e una resina contenente ioni metallici immobilizzati (\texttt{Ni-NTA}), ottenendo una frazione purificata adatta ad analisi successive.
+
+\subsection{Strumenti e soluzini}
+\twoColumnLayout
+  {Strumentazione:}
+  {
+  \item Colonna per cromatografia con tappo
+  \item Supporto per colonna
+  \item Eppendorf per raccolta frazioni
+  \item Micropipette e puntali
+  \item Spettrofotometro
+  \item Centrifuga
+  }
+  {Soluzioni e reagenti:}
+  {
+  \item Resina Ni-NTA (Qiagen), in etanolo 20\%
+  \item Soluzione di attivazione con (Ni\textsuperscript{2+})
+  \item H\textsubscript{2}O Milli-Q
+  \item Tampone Tris 20 mM, pH 8.0
+  \item Tampone Tris 20 mM pH 8.0 + 200 mM Imidazolo
+  \item Lisato proteico (contenente proteina 6xHis)
+  }
+
+\subsection{Procedura}
+\subsubsection*{Preparazione della colonna}
+\begin{itemize}\footnotesize
+  \item Aggiungere circa 0.5 cm di resina Ni-NTA alla colonna e lasciar decantare.
+  \item Lavare la resina 3 volte con 1 mL di H\textsubscript{2}O Milli-Q per rimuovere i residui di etanolo.
+  \item Aggiungere 0.5 mL di soluzione contenente ioni Nickel (Ni\textsuperscript{2+}) per attivare la resina.
+  \item Lavare 2 volte con 1 mL di H\textsubscript{2}O Milli-Q per rimuovere il Nickel in eccesso.
+  \item Equilibrare la colonna con 1 mL di tampone Tris 20 mM pH 8.
+\end{itemize}
+
+\subsubsection*{Caricamento del campione ed eluizione}
+\begin{itemize}\footnotesize
+  \item Aggiungere il lisato cellulare contenente la proteina 6xHis ed attendere 5min.
+  \item Eluire la proteina con tampone di eluizione (Tris 20 mM + 250 mM imidazolo) e raccogliere.
+\end{itemize}
+
+\subsection{Monitoraggio dell’assorbanza (OD) durante la purificazione}
+
+Durante la cromatografia di affinità, la \textbf{misura dell’assorbanza (OD, tipicamente a 280 nm)} consente di monitorare la presenza di proteine nelle diverse frazioni raccolte.
+
+\begin{itemize}\footnotesize
+  \item \textbf{Prima del lavaggio (frazione non legata):}  
+  L’OD può essere elevata perché questa frazione contiene proteine non specifiche che non si sono legate alla resina.  
+  Un OD alto qui è atteso e non implica necessariamente la perdita della proteina target.
+
+  \item \textbf{Dopo il tampone di lavaggio (wash):}  
+  L’OD si abbassa rispetto alla frazione precedente, ma può essere ancora significativa.  
+  Questa frazione rimuove proteine debolmente legate o aspecifiche; un OD troppo alto qui può indicare condizioni di lavaggio troppo blande.
+
+  \item \textbf{Durante le eluzioni (con imidazolo):}  
+  Le frazioni eluìte devono mostrare \textbf{un picco netto di OD} se la proteina target è presente.  
+  Tipicamente si raccolgono più aliquote successive per identificare il punto in cui l’OD (e quindi la concentrazione proteica) è massima.
+\end{itemize}
+
+\begin{insightBox}\footnotesize
+	\textbf{Insight:} Le prime frazioni di eluizione contengono la maggior parte della proteina target e mostrano un picco di OD elevato.  
+	Le frazioni successive presentano una \textbf{progressiva diminuzione dell’OD}, segnalando l’esaurimento della proteina legata alla resina.
+\end{insightBox}
+
+
+
+\subsection{Conclusioni}
+La cromatografia di affinità su resina Ni-NTA ha permesso la purificazione selettiva di una proteina ricombinante contenente un tag 6xHis.  
+La specifica affinità tra le istidine e gli ioni Ni\textsuperscript{2+} ha garantito un’elevata ritenzione della proteina target durante i lavaggi, consentendone la successiva eluizione con imidazolo.
+
+L’assorbanza a 280 nm ha indicato la presenza di proteine nelle diverse frazioni, ma non consente di distinguere tra la proteina target e eventuali contaminanti.  
+Per confermare l’identità della proteina purificata è quindi fondamentale affiancare l’analisi spettrofotometrica con tecniche specifiche come SDS-PAGE e Western Blot.
+\restoregeometry
+\newpage

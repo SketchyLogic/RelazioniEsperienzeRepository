@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1749738800.86247 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749738802.75637 0
-  "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749689717 2505 5a8280b5b13b5e4a00ce29431a17b5c4 ""
+["pdflatex"] 1749785314.72907 "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" "main.pdf" "main" 1749785316.64089 0
+  "c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex" 1749785188 2522 d94012bd3fa7ea1dec92d177af7b91f9 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1749158061 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1749158899 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcbx1000.tfm" 1749158535 1536 30fde759286ded71559881bfa2623939 ""
@@ -17,6 +17,7 @@
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cbfonts/grxn1000.tfm" 1749157923 2892 e2ec3249e00a08cabffce6b17d93cb1d ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1749158044 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1749158044 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm" 1749158044 1344 8a0be4fe4d376203000810ad4dc81558 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm" 1749158044 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1749158044 1332 1fde11373e221473104d6cc5993f046e ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1749158044 1328 5442e22a7072966dbaf88ca900acf3f0 ""
@@ -39,6 +40,7 @@
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmtt9.tfm" 1749158044 764 c98a2af25c99b73a368cf7336e255190 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1749157354 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1749157354 32080 340ef9bf63678554ee606688e7b5339d ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb" 1749157354 32378 2b20eba6bb36c716382b6d96240eaa69 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb" 1749157354 32007 e8fa0078355f39467039935974716569 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1749157354 32166 b0c356b15f19587482a9217ce1d8fa67 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1749157354 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
@@ -213,6 +215,8 @@
   "chapters/11.Mantenimento di colture cellulari di mammifero.tex" 1749624695 11486 9161744dffba172c89601f52a58c8f78 ""
   "chapters/12.Estrazione di proteine da cellule di mammifero.tex" 1749646987 7173 dfa9961506a5205e8ac942c4118ac32d ""
   "chapters/13.Elettroforesi SDS-PAGE e Western Blot.tex" 1749738800 16145 d288d80546f7f4186caebb4c7ec7c9f0 ""
+  "chapters/14.Cromatografia di Affinità.tex" 1749785314 8319 a408416e4f3af18c77bb93e35ea0749b ""
+  "chapters/15.Immunocitochimica.tex" 1749777513 831 8ad430875a3f0a7fff0462dffbd69a24 ""
   "chapters/2.Estrazione dell RNA totale con TRIzol e Quantificazione.tex" 1749245728 9606 bf1622cf546acb8214153a619ad40d6f ""
   "chapters/3.Spettrometria di un campione di RNA totale.tex" 1749248697 3222 07b97052cfebf6a4e7dce35844d53e61 ""
   "chapters/4.Restrizione del DNA ed analisi elettroforetica.tex" 1749322505 12560 741704f53500b3487e7039aee9aec31f ""
@@ -221,10 +225,9 @@
   "chapters/7.Preparazione di cellule competenti.tex" 1749422005 7589 4f6db8f3a4a5f35c27d7bcdc735158ad ""
   "chapters/8.Preparazione piastre per trasformazione batterica.tex" 1749433744 6563 b3733a566e6f04731f8083dee91e8301 ""
   "chapters/9.Trasformazione batterica.tex" 1749438825 6515 828fb90bf7ef5b4cdc14829a4b26371d ""
-  "chapters/relazioni rimanenti.tex" 1749646763 1302 d14e4bcafaf76e0717e2debe201777c9 ""
-  "main.aux" 1749738802 13638 c951e8f42ea998a15471f83641099852 "pdflatex"
-  "main.tex" 1749689717 2505 5a8280b5b13b5e4a00ce29431a17b5c4 ""
-  "main.toc" 1749738802 8794 af76e46693b014250974d48013f92ad9 "pdflatex"
+  "main.aux" 1749785316 15312 debdaf3bdd84def1458a28a77bab872e "pdflatex"
+  "main.tex" 1749785188 2522 d94012bd3fa7ea1dec92d177af7b91f9 ""
+  "main.toc" 1749785316 9812 3b157680bb868f41a680ae2eab40529c "pdflatex"
   "style/custom.sty" 1749419131 1448 353ec0dd4b4bd1bc121fb14050388ce2 ""
   (generated)
   "main.aux"

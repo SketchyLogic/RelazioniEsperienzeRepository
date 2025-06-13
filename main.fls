@@ -330,12 +330,17 @@ INPUT ./chapters/13.Elettroforesi SDS-PAGE e Western Blot.tex
 INPUT ./chapters/13.Elettroforesi SDS-PAGE e Western Blot.tex
 INPUT chapters/13.Elettroforesi SDS-PAGE e Western Blot.tex
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cbfonts/grxn1000.tfm
-INPUT ./chapters/relazioni rimanenti.tex
-INPUT ./chapters/relazioni rimanenti.tex
-INPUT chapters/relazioni rimanenti.tex
+INPUT ./chapters/14.Cromatografia di Affinità.tex
+INPUT ./chapters/14.Cromatografia di Affinità.tex
+INPUT chapters/14.Cromatografia di Affinità.tex
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
+INPUT ./chapters/15.Immunocitochimica.tex
+INPUT ./chapters/15.Immunocitochimica.tex
+INPUT chapters/15.Immunocitochimica.tex
 INPUT main.aux
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
