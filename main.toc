@@ -1,130 +1,130 @@
-\contentsline {section}{\numberline {1}Miniprep - Preparazione di DNA plasmidico tramite lisi alcalina}{4}{}%
-\contentsline {subsection}{\numberline {1.1}Introduzione - Contesto}{4}{}%
-\contentsline {subsection}{\numberline {1.2}Obiettivo}{4}{}%
-\contentsline {subsection}{\numberline {1.3}Strumentazione}{4}{}%
-\contentsline {subsection}{\numberline {1.4}Soluzioni e reagenti}{4}{}%
-\contentsline {subsection}{\numberline {1.5}Procedura}{5}{}%
-\contentsline {subsection}{\numberline {1.6}Conclusioni}{7}{}%
-\contentsline {section}{\numberline {2}Estrazione dell RNA totale con TRIzol e Quantificazione}{8}{}%
-\contentsline {subsection}{\numberline {2.1}Introduzione - Contesto}{8}{}%
-\contentsline {subsection}{\numberline {2.2}Obiettivo}{8}{}%
-\contentsline {subsection}{\numberline {2.3}Strumentazione}{8}{}%
-\contentsline {subsection}{\numberline {2.4}Soluzioni e reagenti}{8}{}%
-\contentsline {subsection}{\numberline {2.5}Procedura}{9}{}%
-\contentsline {subsection}{\numberline {2.6}Conclusioni}{11}{}%
-\contentsline {section}{\numberline {3}Spettrometria di un campione di RNA totale}{12}{}%
-\contentsline {subsection}{\numberline {3.1}Introduzione}{12}{}%
-\contentsline {subsection}{\numberline {3.2}Analogie e diversità dei due strumenti}{12}{}%
-\contentsline {subsection}{\numberline {3.3}Interpretazione dei dati}{12}{}%
-\contentsline {subsection}{\numberline {3.4}Registrazione del bianco}{12}{}%
-\contentsline {section}{\numberline {4}Restrizione del DNA ed analisi elettroforetica}{13}{}%
-\contentsline {subsection}{\numberline {4.1}Introduzione}{13}{}%
-\contentsline {subsubsection}{\numberline {4.1.1}Tecniche e tecnologie utilizzate}{13}{}%
-\contentsline {subsubsection}{\numberline {4.1.2}Informazioni generali sull'enzima EcoRI}{13}{}%
-\contentsline {subsection}{\numberline {4.2}Obiettivo}{13}{}%
-\contentsline {subsection}{\numberline {4.3}Strumentazione e reagenti (digestione enzimatica)}{14}{}%
-\contentsline {subsection}{\numberline {4.4}Strumentazione e reagenti (gel elettroforesi)}{14}{}%
-\contentsline {subsection}{\numberline {4.5}Procedura per digestione del DNA}{15}{}%
-\contentsline {subsection}{\numberline {4.6}Procedura preparazione Gel Elettroforesi}{16}{}%
-\contentsline {subsection}{\numberline {4.7}Preparazione della corsa elettroforetica}{17}{}%
-\contentsline {subsection}{\numberline {4.8}Osservare il gel nel transilluminatore}{17}{}%
-\contentsline {subsection}{\numberline {4.9}Come interpretare l’analisi}{17}{}%
-\contentsline {section}{\numberline {5}Polymerase Chain Reaction (PCR)}{18}{}%
-\contentsline {subsection}{\numberline {5.1}Principio di funzionamento}{18}{}%
-\contentsline {subsection}{\numberline {5.2}Obiettivo}{18}{}%
-\contentsline {subsection}{\numberline {5.3}Strumentazione}{18}{}%
-\contentsline {subsubsection}{\numberline {5.3.1}Il termociclatore}{18}{}%
-\contentsline {subsection}{\numberline {5.4}Soluzioni e altre sostanze}{18}{}%
-\contentsline {subsection}{\numberline {5.5}Procedimento}{19}{}%
-\contentsline {subsection}{\numberline {5.6}Programma termociclatore}{19}{}%
-\contentsline {subsection}{\numberline {5.7}Risultati attesi}{19}{}%
-\contentsline {subsection}{\numberline {5.8}Un'evoluzione della PCR: RealTime-qPCR}{20}{}%
-\contentsline {subsubsection}{\numberline {5.8.1}Che problema risolve RT-qPCR}{20}{}%
-\contentsline {subsubsection}{\numberline {5.8.2}Principio di funzionamento semplificato}{20}{}%
-\contentsline {subsubsection}{\numberline {5.8.3}Cenni Storici: La strada che ha portato allo sviluppo della RealTime-qPCR}{20}{}%
-\contentsline {section}{\numberline {6}Preparazione di terreno LB solido}{21}{}%
-\contentsline {subsection}{\numberline {6.1}Introduzione}{21}{}%
-\contentsline {subsection}{\numberline {6.2}Composizione del terreno LB solido}{21}{}%
-\contentsline {subsection}{\numberline {6.3}Obiettivo}{21}{}%
-\contentsline {subsection}{\numberline {6.4}Strumentazione e reagenti}{21}{}%
-\contentsline {subsection}{\numberline {6.5}Procedura}{21}{}%
-\contentsline {section}{\numberline {7}Preparazione di cellule competenti}{22}{}%
-\contentsline {subsection}{\numberline {7.1}Introduzione}{22}{}%
-\contentsline {subsection}{\numberline {7.2}Buffer utilizzati}{22}{}%
-\contentsline {subsection}{\numberline {7.3}Procedura}{23}{}%
-\contentsline {subsection}{\numberline {7.4}Linee guida generali per la preparazione di tamponi}{23}{}%
-\contentsline {section}{\numberline {8}Preparazione piastre per trasformazione batterica}{24}{}%
-\contentsline {subsection}{\numberline {8.1}Introduzione}{24}{}%
-\contentsline {subsection}{\numberline {8.2}Approfondimento su Piastra con Kan/Caf}{24}{}%
-\contentsline {subsection}{\numberline {8.3}Approfondimento su Piastra con Amp/IPTG/Xgal}{24}{}%
-\contentsline {subsection}{\numberline {8.4}Obiettivo}{25}{}%
-\contentsline {subsection}{\numberline {8.5}Procedura}{25}{}%
-\contentsline {subsection}{\numberline {8.6}Conclusioni}{25}{}%
-\contentsline {section}{\numberline {9}Trasformazione cellule competenti}{26}{}%
-\contentsline {subsection}{\numberline {9.1}Introduzione}{26}{}%
-\contentsline {subsection}{\numberline {9.2}Approfondimento tecnica blue-white screening}{26}{}%
-\contentsline {subsection}{\numberline {9.3}Obiettivo}{27}{}%
-\contentsline {subsection}{\numberline {9.4}Procedura}{27}{}%
-\contentsline {subsection}{\numberline {9.5}Conclusioni}{27}{}%
-\contentsline {section}{\numberline {10}Colony PCR}{28}{}%
-\contentsline {subsection}{\numberline {10.1}Introduzione}{28}{}%
-\contentsline {subsection}{\numberline {10.2}Obiettivo}{28}{}%
-\contentsline {subsection}{\numberline {10.3}Procedura}{28}{}%
-\contentsline {subsection}{\numberline {10.4}Conclusioni}{28}{}%
-\contentsline {section}{\numberline {11}Mantenimento di colture cellulari di mammifero}{29}{}%
-\contentsline {subsection}{\numberline {11.1}Introduzione}{29}{}%
-\contentsline {subsection}{\numberline {11.2}Cellule HEK293T e relazione con T-antigene SV40}{29}{}%
-\contentsline {subsection}{\numberline {11.3}Cos'è un plasmide taggato e a cosa serve}{29}{}%
-\contentsline {subsection}{\numberline {11.4}Obiettivo}{30}{}%
-\contentsline {subsection}{\numberline {11.5}Strumenti e soluzioni}{30}{}%
-\contentsline {subsection}{\numberline {11.6}Procedura: Preparazioni}{31}{}%
-\contentsline {subsection}{\numberline {11.7}Procedura: Preparazione terreno di coltura completo (5mL)}{31}{}%
-\contentsline {subsection}{\numberline {11.8}Procedura sperimentale: coltura, splitting e raccolta cellule}{31}{}%
-\contentsline {subsection}{\numberline {11.9}Conclusioni}{31}{}%
-\contentsline {section}{\numberline {12}Estrazione di proteine da cellule di mammifero}{32}{}%
-\contentsline {subsection}{\numberline {12.1}Introduzione}{32}{}%
-\contentsline {subsection}{\numberline {12.2}Obiettivo}{32}{}%
-\contentsline {subsection}{\numberline {12.3}Strumentazione}{32}{}%
-\contentsline {subsection}{\numberline {12.4}Soluzioni e reagenti}{32}{}%
-\contentsline {subsection}{\numberline {12.5}Procedura}{33}{}%
-\contentsline {section}{\numberline {13}Elettroforesi SDS-PAGE e Western Blot}{34}{}%
-\contentsline {subsection}{\numberline {13.1}Introduzione}{34}{}%
-\contentsline {subsubsection}{\numberline {13.1.1}SDS-PAGE (Sodium Dodecyl Sulphate - PolyAcrylamide Gel Electrophoresis)}{34}{}%
-\contentsline {paragraph}{Principio della tecnica}{34}{}%
-\contentsline {paragraph}{Ruolo dell'SDS e del BME}{34}{}%
-\contentsline {paragraph}{Struttura del gel: stacking e resolving}{34}{}%
-\contentsline {paragraph}{Marker di peso molecolare}{34}{}%
-\contentsline {subsubsection}{\numberline {13.1.2}Western Blot}{35}{}%
+\contentsline {section}{\numberline {1}Miniprep - Preparazione di DNA plasmidico tramite lisi alcalina}{5}{}%
+\contentsline {subsection}{\numberline {1.1}Introduzione - Contesto}{5}{}%
+\contentsline {subsection}{\numberline {1.2}Obiettivo}{5}{}%
+\contentsline {subsection}{\numberline {1.3}Strumentazione}{5}{}%
+\contentsline {subsection}{\numberline {1.4}Soluzioni e reagenti}{5}{}%
+\contentsline {subsection}{\numberline {1.5}Procedura}{6}{}%
+\contentsline {subsection}{\numberline {1.6}Conclusioni}{8}{}%
+\contentsline {section}{\numberline {2}Estrazione dell RNA totale con TRIzol e Quantificazione}{9}{}%
+\contentsline {subsection}{\numberline {2.1}Introduzione - Contesto}{9}{}%
+\contentsline {subsection}{\numberline {2.2}Obiettivo}{9}{}%
+\contentsline {subsection}{\numberline {2.3}Strumentazione}{9}{}%
+\contentsline {subsection}{\numberline {2.4}Soluzioni e reagenti}{9}{}%
+\contentsline {subsection}{\numberline {2.5}Procedura}{10}{}%
+\contentsline {subsection}{\numberline {2.6}Conclusioni}{12}{}%
+\contentsline {section}{\numberline {3}Spettrometria di un campione di RNA totale}{13}{}%
+\contentsline {subsection}{\numberline {3.1}Introduzione}{13}{}%
+\contentsline {subsection}{\numberline {3.2}Analogie e diversità dei due strumenti}{13}{}%
+\contentsline {subsection}{\numberline {3.3}Interpretazione dei dati}{13}{}%
+\contentsline {subsection}{\numberline {3.4}Registrazione del bianco}{13}{}%
+\contentsline {section}{\numberline {4}Restrizione del DNA ed analisi elettroforetica}{14}{}%
+\contentsline {subsection}{\numberline {4.1}Introduzione}{14}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Tecniche e tecnologie utilizzate}{14}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}Informazioni generali sull'enzima EcoRI}{14}{}%
+\contentsline {subsection}{\numberline {4.2}Obiettivo}{14}{}%
+\contentsline {subsection}{\numberline {4.3}Strumentazione e reagenti (digestione enzimatica)}{15}{}%
+\contentsline {subsection}{\numberline {4.4}Strumentazione e reagenti (gel elettroforesi)}{15}{}%
+\contentsline {subsection}{\numberline {4.5}Procedura per digestione del DNA}{16}{}%
+\contentsline {subsection}{\numberline {4.6}Procedura preparazione Gel Elettroforesi}{17}{}%
+\contentsline {subsection}{\numberline {4.7}Preparazione della corsa elettroforetica}{18}{}%
+\contentsline {subsection}{\numberline {4.8}Osservare il gel nel transilluminatore}{18}{}%
+\contentsline {subsection}{\numberline {4.9}Come interpretare l’analisi}{18}{}%
+\contentsline {section}{\numberline {5}Polymerase Chain Reaction (PCR)}{19}{}%
+\contentsline {subsection}{\numberline {5.1}Principio di funzionamento}{19}{}%
+\contentsline {subsection}{\numberline {5.2}Obiettivo}{19}{}%
+\contentsline {subsection}{\numberline {5.3}Strumentazione}{19}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}Il termociclatore}{19}{}%
+\contentsline {subsection}{\numberline {5.4}Soluzioni e altre sostanze}{19}{}%
+\contentsline {subsection}{\numberline {5.5}Procedimento}{20}{}%
+\contentsline {subsection}{\numberline {5.6}Programma termociclatore}{20}{}%
+\contentsline {subsection}{\numberline {5.7}Risultati attesi}{20}{}%
+\contentsline {subsection}{\numberline {5.8}Un'evoluzione della PCR: RealTime-qPCR}{21}{}%
+\contentsline {subsubsection}{\numberline {5.8.1}Che problema risolve RT-qPCR}{21}{}%
+\contentsline {subsubsection}{\numberline {5.8.2}Principio di funzionamento semplificato}{21}{}%
+\contentsline {subsubsection}{\numberline {5.8.3}Cenni Storici: La strada che ha portato allo sviluppo della RealTime-qPCR}{21}{}%
+\contentsline {section}{\numberline {6}Preparazione di terreno LB solido}{22}{}%
+\contentsline {subsection}{\numberline {6.1}Introduzione}{22}{}%
+\contentsline {subsection}{\numberline {6.2}Composizione del terreno LB solido}{22}{}%
+\contentsline {subsection}{\numberline {6.3}Obiettivo}{22}{}%
+\contentsline {subsection}{\numberline {6.4}Strumentazione e reagenti}{22}{}%
+\contentsline {subsection}{\numberline {6.5}Procedura}{22}{}%
+\contentsline {section}{\numberline {7}Preparazione di cellule competenti}{23}{}%
+\contentsline {subsection}{\numberline {7.1}Introduzione}{23}{}%
+\contentsline {subsection}{\numberline {7.2}Buffer utilizzati}{23}{}%
+\contentsline {subsection}{\numberline {7.3}Procedura}{24}{}%
+\contentsline {subsection}{\numberline {7.4}Linee guida generali per la preparazione di tamponi}{24}{}%
+\contentsline {section}{\numberline {8}Preparazione piastre per trasformazione batterica}{25}{}%
+\contentsline {subsection}{\numberline {8.1}Introduzione}{25}{}%
+\contentsline {subsection}{\numberline {8.2}Approfondimento su Piastra con Kan/Caf}{25}{}%
+\contentsline {subsection}{\numberline {8.3}Approfondimento su Piastra con Amp/IPTG/Xgal}{25}{}%
+\contentsline {subsection}{\numberline {8.4}Obiettivo}{26}{}%
+\contentsline {subsection}{\numberline {8.5}Procedura}{26}{}%
+\contentsline {subsection}{\numberline {8.6}Conclusioni}{26}{}%
+\contentsline {section}{\numberline {9}Trasformazione cellule competenti}{27}{}%
+\contentsline {subsection}{\numberline {9.1}Introduzione}{27}{}%
+\contentsline {subsection}{\numberline {9.2}Approfondimento tecnica blue-white screening}{27}{}%
+\contentsline {subsection}{\numberline {9.3}Obiettivo}{28}{}%
+\contentsline {subsection}{\numberline {9.4}Procedura}{28}{}%
+\contentsline {subsection}{\numberline {9.5}Conclusioni}{28}{}%
+\contentsline {section}{\numberline {10}Colony PCR}{29}{}%
+\contentsline {subsection}{\numberline {10.1}Introduzione}{29}{}%
+\contentsline {subsection}{\numberline {10.2}Obiettivo}{29}{}%
+\contentsline {subsection}{\numberline {10.3}Procedura}{29}{}%
+\contentsline {subsection}{\numberline {10.4}Conclusioni}{29}{}%
+\contentsline {section}{\numberline {11}Mantenimento di colture cellulari di mammifero}{30}{}%
+\contentsline {subsection}{\numberline {11.1}Introduzione}{30}{}%
+\contentsline {subsection}{\numberline {11.2}Cellule HEK293T e relazione con T-antigene SV40}{30}{}%
+\contentsline {subsection}{\numberline {11.3}Cos'è un plasmide taggato e a cosa serve}{30}{}%
+\contentsline {subsection}{\numberline {11.4}Obiettivo}{31}{}%
+\contentsline {subsection}{\numberline {11.5}Strumenti e soluzioni}{31}{}%
+\contentsline {subsection}{\numberline {11.6}Procedura: Preparazioni}{32}{}%
+\contentsline {subsection}{\numberline {11.7}Procedura: Preparazione terreno di coltura completo (5mL)}{32}{}%
+\contentsline {subsection}{\numberline {11.8}Procedura sperimentale: coltura, splitting e raccolta cellule}{32}{}%
+\contentsline {subsection}{\numberline {11.9}Conclusioni}{32}{}%
+\contentsline {section}{\numberline {12}Estrazione di proteine da cellule di mammifero}{33}{}%
+\contentsline {subsection}{\numberline {12.1}Introduzione}{33}{}%
+\contentsline {subsection}{\numberline {12.2}Obiettivo}{33}{}%
+\contentsline {subsection}{\numberline {12.3}Strumentazione}{33}{}%
+\contentsline {subsection}{\numberline {12.4}Soluzioni e reagenti}{33}{}%
+\contentsline {subsection}{\numberline {12.5}Procedura}{34}{}%
+\contentsline {section}{\numberline {13}Elettroforesi SDS-PAGE e Western Blot}{35}{}%
+\contentsline {subsection}{\numberline {13.1}Introduzione}{35}{}%
+\contentsline {subsubsection}{\numberline {13.1.1}SDS-PAGE (Sodium Dodecyl Sulphate - PolyAcrylamide Gel Electrophoresis)}{35}{}%
 \contentsline {paragraph}{Principio della tecnica}{35}{}%
-\contentsline {paragraph}{Trasferimento su membrana}{35}{}%
-\contentsline {paragraph}{Blocco e incubazione con anticorpi}{35}{}%
-\contentsline {paragraph}{Rilevazione del segnale}{35}{}%
-\contentsline {subsection}{\numberline {13.2}Obiettivo}{35}{}%
-\contentsline {subsection}{\numberline {13.3}Fasi dell’esperimento}{35}{}%
-\contentsline {subsection}{\numberline {13.4}Strumentazione}{36}{}%
-\contentsline {subsection}{\numberline {13.5}Soluzioni e reagenti}{36}{}%
-\contentsline {paragraph}{Fase I – SDS-PAGE (preparazione gel e corsa elettroforetica)}{36}{}%
-\contentsline {paragraph}{Fase II – Trasferimento e immunodetection (Western Blot)}{36}{}%
-\contentsline {paragraph}{Fase III – Rilevamento del segnale}{36}{}%
-\contentsline {subsection}{\numberline {13.6}Procedura: Corsa elettroforetica (Fase I)}{37}{}%
-\contentsline {subsection}{\numberline {13.7}Procedura: Western Blot (Fase II)}{37}{}%
-\contentsline {subsection}{\numberline {13.8}Procedura: Rilevamento del segnale (Fase III)}{38}{}%
-\contentsline {section}{\numberline {14}Cromatografia di Affinità}{39}{}%
-\contentsline {subsection}{\numberline {14.1}Introduzione}{39}{}%
-\contentsline {subsection}{\numberline {14.2}Dettagli sulla tecnica}{39}{}%
-\contentsline {paragraph}{La matrice}{39}{}%
-\contentsline {paragraph}{Materiali comuni}{39}{}%
-\contentsline {paragraph}{Interazioni specifiche}{39}{}%
-\contentsline {paragraph}{Strategie di eluizione}{39}{}%
-\contentsline {subsection}{\numberline {14.3}Obiettivo}{40}{}%
-\contentsline {subsection}{\numberline {14.4}Strumenti e soluzini}{40}{}%
-\contentsline {subsection}{\numberline {14.5}Procedura}{40}{}%
-\contentsline {subsection}{\numberline {14.6}Monitoraggio dell’assorbanza (OD) durante la purificazione}{40}{}%
-\contentsline {subsection}{\numberline {14.7}Conclusioni}{40}{}%
-\contentsline {section}{\numberline {15}ICC (Immunocitochimica)}{41}{}%
-\contentsline {subsection}{\numberline {15.1}Introduzione}{41}{}%
-\contentsline {subsection}{\numberline {15.2}Obiettivo}{41}{}%
-\contentsline {subsection}{\numberline {15.3}Strumentazione}{41}{}%
-\contentsline {subsection}{\numberline {15.4}Soluzioni e reagenti}{41}{}%
-\contentsline {subsection}{\numberline {15.5}Procedura}{41}{}%
-\contentsline {subsection}{\numberline {15.6}Conclusioni}{41}{}%
+\contentsline {paragraph}{Ruolo dell'SDS e del BME}{35}{}%
+\contentsline {paragraph}{Struttura del gel: stacking e resolving}{35}{}%
+\contentsline {paragraph}{Marker di peso molecolare}{35}{}%
+\contentsline {subsubsection}{\numberline {13.1.2}Western Blot}{36}{}%
+\contentsline {paragraph}{Principio della tecnica}{36}{}%
+\contentsline {paragraph}{Trasferimento su membrana}{36}{}%
+\contentsline {paragraph}{Blocco e incubazione con anticorpi}{36}{}%
+\contentsline {paragraph}{Rilevazione del segnale}{36}{}%
+\contentsline {subsection}{\numberline {13.2}Obiettivo}{36}{}%
+\contentsline {subsection}{\numberline {13.3}Fasi dell’esperimento}{36}{}%
+\contentsline {subsection}{\numberline {13.4}Strumentazione}{37}{}%
+\contentsline {subsection}{\numberline {13.5}Soluzioni e reagenti}{37}{}%
+\contentsline {paragraph}{Fase I – SDS-PAGE (preparazione gel e corsa elettroforetica)}{37}{}%
+\contentsline {paragraph}{Fase II – Trasferimento e immunodetection (Western Blot)}{37}{}%
+\contentsline {paragraph}{Fase III – Rilevamento del segnale}{37}{}%
+\contentsline {subsection}{\numberline {13.6}Procedura: Corsa elettroforetica (Fase I)}{38}{}%
+\contentsline {subsection}{\numberline {13.7}Procedura: Western Blot (Fase II)}{38}{}%
+\contentsline {subsection}{\numberline {13.8}Procedura: Rilevamento del segnale (Fase III)}{39}{}%
+\contentsline {section}{\numberline {14}Cromatografia di Affinità}{40}{}%
+\contentsline {subsection}{\numberline {14.1}Introduzione}{40}{}%
+\contentsline {subsection}{\numberline {14.2}Dettagli sulla tecnica}{40}{}%
+\contentsline {paragraph}{La matrice}{40}{}%
+\contentsline {paragraph}{Materiali comuni}{40}{}%
+\contentsline {paragraph}{Interazioni specifiche}{40}{}%
+\contentsline {paragraph}{Strategie di eluizione}{40}{}%
+\contentsline {subsection}{\numberline {14.3}Obiettivo}{41}{}%
+\contentsline {subsection}{\numberline {14.4}Strumenti e soluzini}{41}{}%
+\contentsline {subsection}{\numberline {14.5}Procedura}{41}{}%
+\contentsline {subsection}{\numberline {14.6}Monitoraggio dell’assorbanza (OD) durante la purificazione}{41}{}%
+\contentsline {subsection}{\numberline {14.7}Conclusioni}{41}{}%
+\contentsline {section}{\numberline {15}ICC (Immunocitochimica)}{42}{}%
+\contentsline {subsection}{\numberline {15.1}Introduzione}{42}{}%
+\contentsline {subsection}{\numberline {15.2}Obiettivo}{42}{}%
+\contentsline {subsection}{\numberline {15.3}Strumentazione}{42}{}%
+\contentsline {subsection}{\numberline {15.4}Soluzioni e reagenti}{42}{}%
+\contentsline {subsection}{\numberline {15.5}Procedura}{42}{}%
+\contentsline {subsection}{\numberline {15.6}Conclusioni}{42}{}%
