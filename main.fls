@@ -1,8 +1,8 @@
-PWD c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository
+PWD c:/repos/RelazioniEsperienzeRepository
 INPUT c:/texlive/2025/texmf.cnf
 INPUT c:/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/obsidian-swilo/UNI/Laboratorio Biologia Molecolare/RelazioniEsperienzeRepository/main.tex
+INPUT c:/repos/RelazioniEsperienzeRepository/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -311,7 +311,6 @@ INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./main.toc
 INPUT ./main.toc
@@ -351,6 +350,7 @@ INPUT ./chapters/4.Restrizione del DNA ed analisi elettroforetica.tex
 INPUT ./chapters/4.Restrizione del DNA ed analisi elettroforetica.tex
 INPUT chapters/4.Restrizione del DNA ed analisi elettroforetica.tex
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmti8.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT ./chapters/5.PCR.tex
 INPUT ./chapters/5.PCR.tex
 INPUT chapters/5.PCR.tex
@@ -394,9 +394,6 @@ INPUT ./chapters/14.Cromatografia di Affinità.tex
 INPUT ./chapters/14.Cromatografia di Affinità.tex
 INPUT chapters/14.Cromatografia di Affinità.tex
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
-INPUT ./chapters/15.Immunocitochimica.tex
-INPUT ./chapters/15.Immunocitochimica.tex
-INPUT chapters/15.Immunocitochimica.tex
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

@@ -107,7 +107,7 @@
 \contentsline {paragraph}{Fase II – Trasferimento e immunodetection (Western Blot)}{37}{section*.13}%
 \contentsline {paragraph}{Fase III – Rilevamento del segnale}{37}{section*.14}%
 \contentsline {subsection}{\numberline {13.6}Procedura: Corsa elettroforetica (Fase I)}{38}{subsection.13.6}%
-\contentsline {subsection}{\numberline {13.7}Procedura: Western Blot (Fase II)}{38}{subsection.13.7}%
+\contentsline {subsection}{\numberline {13.7}Procedura: Western Blot (Fase II)}{39}{subsection.13.7}%
 \contentsline {subsection}{\numberline {13.8}Procedura: Rilevamento del segnale (Fase III)}{39}{subsection.13.8}%
 \contentsline {section}{\numberline {14}Cromatografia di Affinità}{40}{section.14}%
 \contentsline {subsection}{\numberline {14.1}Introduzione}{40}{subsection.14.1}%
@@ -121,10 +121,3 @@
 \contentsline {subsection}{\numberline {14.5}Procedura}{41}{subsection.14.5}%
 \contentsline {subsection}{\numberline {14.6}Monitoraggio dell’assorbanza (OD) durante la purificazione}{41}{subsection.14.6}%
 \contentsline {subsection}{\numberline {14.7}Conclusioni}{41}{subsection.14.7}%
-\contentsline {section}{\numberline {15}ICC (Immunocitochimica)}{42}{section.15}%
-\contentsline {subsection}{\numberline {15.1}Introduzione}{42}{subsection.15.1}%
-\contentsline {subsection}{\numberline {15.2}Obiettivo}{42}{subsection.15.2}%
-\contentsline {subsection}{\numberline {15.3}Strumentazione}{42}{subsection.15.3}%
-\contentsline {subsection}{\numberline {15.4}Soluzioni e reagenti}{42}{subsection.15.4}%
-\contentsline {subsection}{\numberline {15.5}Procedura}{42}{subsection.15.5}%
-\contentsline {subsection}{\numberline {15.6}Conclusioni}{42}{subsection.15.6}%
